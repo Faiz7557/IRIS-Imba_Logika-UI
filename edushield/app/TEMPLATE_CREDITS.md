@@ -9,3 +9,5 @@ No Apple logos, proprietary SF Symbols assets, or downloaded Apple fonts are inc
 The earlier Onda orb remains as an unused historical asset; the active interface does not reference it.
 
 Dark glass card surfaces are adapted from the SignIn1 style reference supplied by the user. Only visual styling is adapted; no reference photos, brand logos, or authentication handlers are included.
+
+Stateful icon treatments are adapted from the Animated State Icons React snippet provided by the user. They are implemented as local SVG and CSS driven by real application state, without Framer Motion, automatic demo timers, or unrelated notification/authentication features.

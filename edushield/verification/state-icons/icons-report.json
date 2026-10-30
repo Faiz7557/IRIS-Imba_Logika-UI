@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": [
+    "consistent local SVG icon badges",
+    "no automatic state toggling",
+    "reset reflects completed reset",
+    "clipboard success verifies actual value",
+    "clipboard denial shows failure",
+    "CSV/JSON reflect prepared content, not saved download",
+    "menu icon reflects actual drawer state",
+    "light/dark preserved",
+    "reduced motion and normal motion",
+    "no page errors"
+  ],
+  "pageErrors": []
+}

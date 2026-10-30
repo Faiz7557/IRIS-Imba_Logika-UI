@@ -54,3 +54,9 @@ node edushield/test_apple.cjs
 Default light. Pilihan disimpan dengan kunci localStorage `edushield-theme` dan diterapkan sebelum stylesheet dimuat. Jika penyimpanan tidak tersedia, kedua mode tetap dapat dipilih selama sesi. Penggantian mode hanya mengubah CSS, bukan parameter atau isi formulir. Mode cetak tetap putih.
 
 Uji kedua mode: `node edushield/test_modes.cjs`. Bukti di `verification/dual-mode/`. Ringkasan implementasi di `MODE_TAMPILAN.md`.
+
+## Ikon dan feedback keadaan
+
+`app/icons.js` menyediakan ikon SVG lokal dan varian keadaan dari referensi Animated State Icons pengguna. `app/icons.css` menyatukan bingkai ikon, ketebalan garis, detail dua lapis, serta feedback menu/tutup, reset/selesai, salin/tersalin, dan ekspor/disiapkan. Keadaan mengikuti tindakan nyata; tidak ada loop demo, notifikasi palsu, ataupun layanan autentikasi tambahan. Clipboard yang ditolak menampilkan kegagalan. Ekspor “disiapkan” tidak menyatakan file sudah tersimpan.
+
+Uji: `node edushield/test_state_icons.cjs`. Laporan ada di `verification/state-icons/icons-report.json`. Pengujian antarmuka menyeluruh memakai `EDUSHIELD_UI_REPORT_DIR=edushield/verification/state-icons` dan `node edushield/test_apple.cjs`. Light/dark, sidebar, dan preferensi pengurangan gerak dipertahankan.
