@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "browser": "Chromium headless",
+  "routes": 18,
+  "browser_solver": [
+    {
+      "share": 0.3,
+      "max_relative_error": 2.81337843524785e-15,
+      "solve_ms": 4.199999995529652,
+      "budget_error": -1.1641532182693481e-10
+    },
+    {
+      "share": 0.55,
+      "max_relative_error": 2.692374176667212e-15,
+      "solve_ms": 3.399999998509884,
+      "budget_error": -9.313225746154785e-10
+    },
+    {
+      "share": 0.8,
+      "max_relative_error": 0,
+      "solve_ms": 3.7999999970197678,
+      "budget_error": -2.3283064365386963e-10
+    }
+  ],
+  "initial_local_load_ms": 923,
+  "mobile_width": 390,
+  "page_errors": [],
+  "interactions": [
+    "pagu recomputed",
+    "infeasible bounds rejected",
+    "reset",
+    "search",
+    "district drilldown",
+    "CSV download",
+    "keyboard focus",
+    "print PDF"
+  ]
+}

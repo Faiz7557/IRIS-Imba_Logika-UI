@@ -1,0 +1,13 @@
+{
+  "artifact": "UEC0032_EduShield_Prototype_Light_Dark_Offline.zip",
+  "bytes": 1467053,
+  "sha256": "bbb08b919bc260d4b3bfa8e586fd935acb8932a668472d13a8460c7c6f6822d4",
+  "entry": "edushield/app/index.html",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "regressionChecks": 108,
+  "modeChecks": 72,
+  "nativeDownload": "canceled"
+}

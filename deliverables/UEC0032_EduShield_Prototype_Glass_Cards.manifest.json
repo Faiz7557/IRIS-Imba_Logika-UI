@@ -1,0 +1,12 @@
+{
+  "artifact": "UEC0032_EduShield_Prototype_Glass_Cards_Offline.zip",
+  "sha256": "16cc09e751555c6e35d21a9612add094aa16bbe82146e52bb5d67fad5da6564f",
+  "bytes": 1020464,
+  "files": 29,
+  "entry": "edushield/app/index.html",
+  "style": "Dark glass cards / blue system sidebar",
+  "routeViewportChecks": 108,
+  "cardContrastPairs": 11,
+  "print": "white cards and black text verified",
+  "nativeDownload": "canceled"
+}

@@ -1,0 +1,17 @@
+# Local caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+~$*
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

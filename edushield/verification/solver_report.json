@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "share": 0.3,
+      "max_relative_error": 2.81337843524785e-15,
+      "budget_error": -1.1641532182693481e-10,
+      "solve_ms": 12.888099999999994
+    },
+    {
+      "share": 0.55,
+      "max_relative_error": 2.692374176667212e-15,
+      "budget_error": -9.313225746154785e-10,
+      "solve_ms": 4.956800000000001
+    },
+    {
+      "share": 0.8,
+      "max_relative_error": 3.1151502207667563e-16,
+      "budget_error": -2.3283064365386963e-10,
+      "solve_ms": 3.4668000000000063
+    }
+  ],
+  "summary_parity": "all 5 schemes < 1e-6 absolute students",
+  "hold_harmless": "6 scenarios × 5 years",
+  "invalid_scenarios": "rejected"
+}

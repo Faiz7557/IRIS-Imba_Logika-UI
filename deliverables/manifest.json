@@ -1,0 +1,19 @@
+{
+  "label": "DRAFT REVIEW — NOT SUBMITTED",
+  "body_pages": 9,
+  "court": "NOT GUILTY 12–0, demonstration only",
+  "artifacts": [
+    {
+      "file": "UEC0032_EduShield_Prototype_Offline.zip",
+      "bytes": 236109,
+      "files": 15,
+      "sha256": "3a7f55a786019d8a2104b583ea52fbda961f0cc192065876c8132c499a94087a"
+    },
+    {
+      "file": "UEC0032_EduShield_Paket_Review_dan_Sumber.zip",
+      "bytes": 24388340,
+      "files": 139,
+      "sha256": "04a1de74ec78797e7f1fb7ee755a5612163d707ed95d7ac6aec8c4a4c8dfea3e"
+    }
+  ]
+}

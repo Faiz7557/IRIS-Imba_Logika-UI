@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "print": {
+    "background": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)"
+  },
+  "reducedTransparency": "solid, no blur",
+  "highContrast": "stronger border"
+}

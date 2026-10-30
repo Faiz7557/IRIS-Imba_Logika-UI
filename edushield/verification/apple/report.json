@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "routes": 18,
+  "routeViewportChecks": 108,
+  "viewports": [
+    1440,
+    1024,
+    1023,
+    768,
+    390,
+    375
+  ],
+  "nativeDownload": "canceled",
+  "downloadScope": "Native download result above; CSV and JSON export Blobs are independently validated.",
+  "sliderSolveMs": 32.30000000447035,
+  "pageErrors": [],
+  "externalRequests": [],
+  "checks": [
+    "route code labels removed",
+    "one active sidebar link",
+    "mobile dialog focus trap",
+    "Escape and focus return",
+    "same-route focus recovery",
+    "role switch",
+    "continuous pointer slider: same DOM node",
+    "invalid bounds rejected",
+    "reset",
+    "search",
+    "district selection",
+    "comparison aria-pressed",
+    "correction preview",
+    "local file metadata",
+    "CSV/JSON generation and values",
+    "PDF and print visibility",
+    "200% text",
+    "interruptible spring reversal",
+    "responsive drawer reset",
+    "disclosure",
+    "normal and reduced motion",
+    "invalid route fallback"
+  ]
+}

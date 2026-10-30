@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "downloadLimitation": "Host Chrome canceled native Blob downloads, including a minimal plain-text control. CSV/JSON handlers and contents verified by capturing their generated Blobs; native save-to-disk is not verified.",
+  "routeChecks": 72,
+  "viewports": [
+    1440,
+    768,
+    390,
+    375
+  ],
+  "routes": 18,
+  "pageErrors": [],
+  "externalRequests": [],
+  "interactions": [
+    "mobile menu",
+    "Escape focus",
+    "role switch",
+    "hero CTA",
+    "slider recompute",
+    "invalid bounds",
+    "reset",
+    "search",
+    "district drilldown",
+    "scheme toggle",
+    "CSV Blob generation",
+    "JSON Blob contents",
+    "print visibility",
+    "PDF",
+    "reduced motion",
+    "normal motion",
+    "invalid-route fallback"
+  ]
+}

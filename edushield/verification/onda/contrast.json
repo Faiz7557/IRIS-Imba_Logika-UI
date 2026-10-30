@@ -1,0 +1,96 @@
+{
+  "scope": "Static theme token pairs; not a full WCAG audit",
+  "pairs": [
+    {
+      "label": "Teks utama",
+      "foreground": "#0d0c11",
+      "background": "#ffffff",
+      "ratio": 19.48,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Teks sekunder",
+      "foreground": "#5d5a67",
+      "background": "#ffffff",
+      "ratio": 6.72,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Teks panel",
+      "foreground": "#0d0c11",
+      "background": "#efeef4",
+      "ratio": 16.89,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Teks sekunder panel",
+      "foreground": "#5d5a67",
+      "background": "#efeef4",
+      "ratio": 5.83,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Tombol violet",
+      "foreground": "#ffffff",
+      "background": "#6c3cff",
+      "ratio": 5.63,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Tautan",
+      "foreground": "#6030e8",
+      "background": "#ffffff",
+      "ratio": 6.81,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Tautan panel",
+      "foreground": "#6030e8",
+      "background": "#efeef4",
+      "ratio": 5.9,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Isi bidang gelap",
+      "foreground": "#aaa7b4",
+      "background": "#0d0c11",
+      "ratio": 8.25,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Label simulasi",
+      "foreground": "#c7c4d1",
+      "background": "#1f1d26",
+      "ratio": 9.7,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko rendah",
+      "foreground": "#38215e",
+      "background": "#eee8ff",
+      "ratio": 11.39,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko sedang",
+      "foreground": "#2c174f",
+      "background": "#c8b5f4",
+      "ratio": 8.47,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko tinggi",
+      "foreground": "#ffffff",
+      "background": "#6030b6",
+      "ratio": 8.09,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko ekstrem",
+      "foreground": "#ffffff",
+      "background": "#38204f",
+      "ratio": 14.12,
+      "aa_normal_text": true
+    }
+  ]
+}

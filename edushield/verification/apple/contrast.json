@@ -1,0 +1,131 @@
+{
+  "scope": "Selected static token pairs; translucent sidebar approximated by solid fallback; not a full WCAG audit",
+  "pairs": [
+    {
+      "label": "Teks utama",
+      "foreground": "#1d1d1f",
+      "background": "#ffffff",
+      "ratio": 16.83,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Teks sekunder",
+      "foreground": "#62636b",
+      "background": "#f5f6f8",
+      "ratio": 5.52,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Label sidebar",
+      "foreground": "#666b76",
+      "background": "#eef1f6",
+      "ratio": 4.72,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Versi sidebar",
+      "foreground": "#626b78",
+      "background": "#eef1f6",
+      "ratio": 4.76,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Footer",
+      "foreground": "#626b78",
+      "background": "#f5f6f8",
+      "ratio": 4.99,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Tombol utama",
+      "foreground": "#ffffff",
+      "background": "#0071e3",
+      "ratio": 4.7,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Navigasi aktif",
+      "foreground": "#0058b0",
+      "background": "#dce9fb",
+      "ratio": 5.65,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Pengantar skenario",
+      "foreground": "#536983",
+      "background": "#eaf2fc",
+      "ratio": 5.01,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko tinggi",
+      "foreground": "#ffffff",
+      "background": "#3679b9",
+      "ratio": 4.57,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko sedang",
+      "foreground": "#183a60",
+      "background": "#a8c9ec",
+      "ratio": 6.75,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko rendah",
+      "foreground": "#315479",
+      "background": "#e6eff8",
+      "ratio": 6.75,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Petak risiko ekstrem",
+      "foreground": "#ffffff",
+      "background": "#1c4268",
+      "ratio": 10.35,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Manfaat positif",
+      "foreground": "#237548",
+      "background": "#ffffff",
+      "ratio": 5.66,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Banner simulasi",
+      "foreground": "#49617d",
+      "background": "#edf3fb",
+      "ratio": 5.72,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Teks tabel",
+      "foreground": "#646b76",
+      "background": "#f3f5f8",
+      "ratio": 4.92,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Notifikasi",
+      "foreground": "#4c5b70",
+      "background": "#f1f5fa",
+      "ratio": 6.31,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Peringatan",
+      "foreground": "#745519",
+      "background": "#fcf7ec",
+      "ratio": 6.43,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Tautan",
+      "foreground": "#0066cc",
+      "background": "#ffffff",
+      "ratio": 5.57,
+      "aa_normal_text": true
+    }
+  ]
+}

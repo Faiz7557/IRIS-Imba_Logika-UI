@@ -1,0 +1,82 @@
+{
+  "scope": "Selected card text pairs using conservative light-background estimates for the dark gradient and inputs; not a full WCAG audit",
+  "pairs": [
+    {
+      "label": "Card heading",
+      "foreground": "#f5f5f7",
+      "background": "#252525",
+      "ratio": 14.08,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Card secondary",
+      "foreground": "#b9bdc7",
+      "background": "#252525",
+      "ratio": 8.15,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Card link",
+      "foreground": "#9bc6ff",
+      "background": "#252525",
+      "ratio": 8.7,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Positive result",
+      "foreground": "#8cd5a7",
+      "background": "#252525",
+      "ratio": 8.9,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Negative result",
+      "foreground": "#ffada5",
+      "background": "#252525",
+      "ratio": 8.59,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Input text",
+      "foreground": "#f5f5f7",
+      "background": "#313131",
+      "ratio": 11.95,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Input placeholder",
+      "foreground": "#b9bdc7",
+      "background": "#313131",
+      "ratio": 6.92,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Table header",
+      "foreground": "#c7cbd3",
+      "background": "#28292c",
+      "ratio": 8.94,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Water label",
+      "foreground": "#f5f5f7",
+      "background": "#295780",
+      "ratio": 6.96,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Heatmap positive",
+      "foreground": "#a3e3bb",
+      "background": "#203a2b",
+      "ratio": 8.38,
+      "aa_normal_text": true
+    },
+    {
+      "label": "Heatmap negative",
+      "foreground": "#ffd0ba",
+      "background": "#462c25",
+      "ratio": 9.1,
+      "aa_normal_text": true
+    }
+  ]
+}

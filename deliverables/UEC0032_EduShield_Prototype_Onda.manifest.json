@@ -1,0 +1,42 @@
+{
+  "artifact": "UEC0032_EduShield_Prototype_Onda_Offline.zip",
+  "bytes": 929338,
+  "files": 23,
+  "sha256": "dd23ef3a5eb82c0479b6a55ca00078a07d7a209876bd8169f986fca3f61772be",
+  "theme": "Onda / 8B adaptation",
+  "entry": "edushield/app/index.html",
+  "browser_checks": {
+    "status": "PASS",
+    "downloadLimitation": "Host Chrome canceled native Blob downloads, including a minimal plain-text control. CSV/JSON handlers and contents verified by capturing their generated Blobs; native save-to-disk is not verified.",
+    "routeChecks": 72,
+    "viewports": [
+      1440,
+      768,
+      390,
+      375
+    ],
+    "routes": 18,
+    "pageErrors": [],
+    "externalRequests": [],
+    "interactions": [
+      "mobile menu",
+      "Escape focus",
+      "role switch",
+      "hero CTA",
+      "slider recompute",
+      "invalid bounds",
+      "reset",
+      "search",
+      "district drilldown",
+      "scheme toggle",
+      "CSV Blob generation",
+      "JSON Blob contents",
+      "print visibility",
+      "PDF",
+      "reduced motion",
+      "normal motion",
+      "invalid-route fallback"
+    ]
+  },
+  "simulation": "All risk, benefit, and quota values are simulations; not a recipient decision."
+}

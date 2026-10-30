@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "threshold": 4.5,
+  "scope": "declared main text and tile color pairs, not a full WCAG audit",
+  "pairs": [
+    {
+      "element": "body",
+      "contrast": 14.11
+    },
+    {
+      "element": "muted",
+      "contrast": 6.13
+    },
+    {
+      "element": "link",
+      "contrast": 6.97
+    },
+    {
+      "element": "button",
+      "contrast": 6.97
+    },
+    {
+      "element": "banner",
+      "contrast": 8.77
+    },
+    {
+      "element": "tile low",
+      "contrast": 11.38
+    },
+    {
+      "element": "tile mid",
+      "contrast": 5.0
+    },
+    {
+      "element": "tile high",
+      "contrast": 8.87
+    },
+    {
+      "element": "tile extreme",
+      "contrast": 8.76
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+<!-- EduShield prototype. Historical template attribution: TEMPLATE_LICENSE.txt. -->
+<html lang="id"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Rencanakan, bandingkan, dan tinjau usulan kuota bantuan pendidikan dengan EduShield.">
+<meta name="theme-color" content="#f5f6f8"><title>EduShield — Perencanaan kuota pendidikan</title>
+<script src="theme-init.js"></script>
+<link rel="icon" href="logo.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="cards.css"><link rel="stylesheet" href="themes.css">
+<script defer src="data.js"></script><script defer src="kkt.js"></script><script defer src="ui.js"></script><script defer src="app.js"></script>
+</head><body>
+<a class="skip" href="#main">Lewati navigasi</a>
+<div id="sidebar-scrim" class="sidebar-scrim" hidden aria-hidden="true"></div>
+<aside class="sidebar" id="workspace-nav" aria-label="Navigasi EduShield">
+<div class="sidebar-top"><a class="brand" href="#A1"><img src="logo.svg" width="34" height="34" alt=""><span>EduShield<small>Perencanaan pendidikan</small></span></a><button class="icon-button sidebar-close" id="sidebar-close" aria-label="Tutup navigasi">×</button></div>
+<div class="role-control"><label for="role">Ruang kerja</label><div class="role-select"><select id="role"><option value="A">Analis pusat</option><option value="B">Dinas Pendidikan</option><option value="C">Admin data & model</option></select></div></div>
+<nav id="nav" aria-label="Navigasi utama"></nav>
+<nav class="docs-nav" aria-label="Dokumentasi"><span class="nav-label">Tentang prototype</span><a href="#L1" data-doc="L1">Identitas visual</a><a href="#L2" data-doc="L2">Arsitektur & data</a><a href="#L3" data-doc="L3">Rencana uji coba</a></nav>
+<div class="sidebar-foot"><span class="local-status"><i aria-hidden="true"></i>Berjalan di perangkat Anda</span><p>Prototype kuota agregat.<br>Tanpa data siswa individual.</p><span class="version">EduShield / Oktober 2026</span></div>
+</aside>
+<div class="workspace" id="app-surface">
+<header class="toolbar"><div class="toolbar-leading"><button id="menu-toggle" class="icon-button" aria-label="Buka navigasi" aria-controls="workspace-nav" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M9 4v16"/></svg></button><div id="breadcrumb"></div></div><div class="toolbar-trailing"><div class="theme-switch" role="group" aria-label="Mode tampilan"><button type="button" data-theme-choice="light" aria-label="Mode terang" aria-pressed="true" title="Mode terang"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5 19 19M5 19l1.5-1.5M17.5 6.5 19 5"/></svg></button><button type="button" data-theme-choice="dark" aria-label="Mode gelap" aria-pressed="false" title="Mode gelap"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 13.5A9 9 0 0 1 10.5 3a9 9 0 1 0 10 10.5Z"/></svg></button></div><span class="workspace-badge">514 wilayah dalam paket</span><button id="reset" class="quiet"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 7a6 6 0 1 1-.2 5M4 3v4h4"/></svg>Atur ulang</button></div></header>
+<div class="simulation" role="note"><span class="simulation-icon" aria-hidden="true">i</span><div><strong>Mode simulasi</strong><span>Data BPS dipadukan dengan risiko, manfaat, dan kuota simulasi. Hasil ini belum menjadi penetapan penerima.</span></div></div>
+<main id="main" tabindex="-1"><noscript>Aktifkan JavaScript untuk menjalankan simulator EduShield.</noscript></main>
+<footer class="site-footer"><span id="footer"></span><div><a href="#L2">Sumber & batas data</a><span class="credit">Referensi awal: <a href="https://8b.com/templates/onda/" target="_blank" rel="noopener noreferrer">8B / Onda</a></span></div></footer>
+</div><div id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+</body></html>

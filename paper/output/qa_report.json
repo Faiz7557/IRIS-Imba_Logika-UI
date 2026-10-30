@@ -1,0 +1,28 @@
+{
+  "pages_total": 30,
+  "body_pages": 10,
+  "body_pdf_pages": [
+    2,
+    11
+  ],
+  "figures_body": 6,
+  "tables_body": 2,
+  "equations_body": 0,
+  "references": 19,
+  "identity": {
+    "nomor": "UEC0032",
+    "tim": "IRIS Imba",
+    "institusi": "Universitas Airlangga",
+    "kota": "Surabaya",
+    "anggota": [
+      "Faiz Iqbal I’tishom",
+      "Ida Bagus Gde Adhiaksa Mantra",
+      "Ferdinand Hans Sebastian"
+    ],
+    "subtema": "Pendidikan dan Sosial Masyarakat",
+    "judul": "EduShield: Sistem Pendukung Keputusan Kuota Program Indonesia Pintar Berbasis Prediksi Risiko Putus Sekolah dan Optimasi Imbal Hasil Menurun"
+  },
+  "turnitin": "not run; no access",
+  "originality": "template filled, ketua tim and signature pending",
+  "rendered_from": "same DOCX via registered Word-compatible Office (WPS)"
+}

@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "scope": "8 scenarios, bit-for-bit equivalence of every returned field",
+  "scenarios": [
+    {
+      "C0": 1.8,
+      "share": 0.55,
+      "alpha": 0.2,
+      "beta": 0.95,
+      "kappa": 1.74,
+      "remote": 0
+    },
+    {
+      "C0": 1.8,
+      "share": 0.3,
+      "alpha": 0.2,
+      "beta": 0.95,
+      "kappa": 1.74,
+      "remote": 0
+    },
+    {
+      "C0": 1.8,
+      "share": 0.8,
+      "alpha": 0.2,
+      "beta": 0.95,
+      "kappa": 1.74,
+      "remote": 0
+    },
+    {
+      "C0": 1.8,
+      "share": 0.55,
+      "alpha": 0.2,
+      "beta": 0.95,
+      "kappa": 1.74,
+      "remote": 0.5
+    },
+    {
+      "C0": 1.8,
+      "share": 0.55,
+      "alpha": 0.2,
+      "beta": 0.95,
+      "kappa": 0.3,
+      "remote": 0
+    },
+    {
+      "C0": 1.8,
+      "share": 0.55,
+      "alpha": 0.2,
+      "beta": 0.95,
+      "kappa": 4,
+      "remote": 0
+    },
+    {
+      "C0": 1.8,
+      "share": 0.55,
+      "alpha": 0,
+      "beta": 1,
+      "kappa": 1.74,
+      "remote": 0
+    },
+    {
+      "C0": 1.8,
+      "share": 0.55,
+      "alpha": 0.55,
+      "beta": 0.55,
+      "kappa": 1.74,
+      "remote": 0
+    }
+  ],
+  "timing": {
+    "oldTotalMs": 314.75440000000003,
+    "newTotalMs": 247.79680000000008,
+    "scope": "single local batch; not a general benchmark"
+  }
+}

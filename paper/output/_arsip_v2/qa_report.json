@@ -1,0 +1,20 @@
+{
+  "pages_total": 38,
+  "body_pages": 9,
+  "body_pdf_pages": [
+    2,
+    10
+  ],
+  "references": 15,
+  "figures_body": 6,
+  "prototype_screens": 18,
+  "identity_missing": [
+    "nama tim",
+    "institusi",
+    "kota"
+  ],
+  "turnitin": "not run; no access",
+  "court": "see .court/LATEST",
+  "numbers_registry": 21,
+  "rendered_from": "same DOCX via registered Word-compatible Office (WPS)"
+}

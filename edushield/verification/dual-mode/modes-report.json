@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "routeViewportChecks": 72,
+  "defaultMode": "light",
+  "persistence": "light and dark survive reload",
+  "statePreservation": "scenario, result, and slider DOM unchanged on mode switch",
+  "storageUnavailable": "toggle remains functional",
+  "print": "white card and black text in both modes",
+  "pageErrors": []
+}

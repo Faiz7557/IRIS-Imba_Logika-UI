@@ -1,0 +1,137 @@
+/* Both modes share the supplied card shape, spacing, and control treatment. */
+@media screen {
+ .panel,.panel.accent,.metrics .panel,.metrics .panel.accent,.overview-hero {border-radius:24px;}
+ .panel .metric-icon {border-radius:50%;}
+ .panel input:not([type=range]),.panel select,.panel textarea {border-radius:12px;}
+ .panel button:not(.primary):not(.tile),.panel .pill:not(.primary) {border-radius:999px;}
+ @media(max-width:700px){.panel,.panel.accent,.metrics .panel,.metrics .panel.accent,.overview-hero{border-radius:20px;}}
+}
+/* Dark glass card treatment adapted from the user-provided SignIn1 reference.
+   This is a surface style for the existing offline UI, with no authentication flow.
+   Screen-only: the existing white, ink-friendly print layout stays independent. */
+@media screen {
+  :root[data-theme="dark"] .panel, :root[data-theme="dark"] .panel.accent, :root[data-theme="dark"] .metrics .panel, :root[data-theme="dark"] .metrics .panel.accent, :root[data-theme="dark"] .overview-hero {
+    --muted: #b9bdc7;
+    --blue: #9bc6ff;
+    --green: #9bc6ff;
+    --line: #ffffff1c;
+    color-scheme: dark;
+    color: #f5f5f7;
+    background-color: #121212;
+    background-image: linear-gradient(110deg, #ffffff10, #121212 86%);
+    border: 1px solid #ffffff1c;
+    border-radius: 24px;
+    box-shadow: 0 16px 36px -20px #10182766, inset 0 1px 0 #ffffff0b;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+  :root[data-theme="dark"] .panel.accent, :root[data-theme="dark"] .metrics .panel.accent { border-color: #87baff55; }
+  :root[data-theme="dark"] .panel h2, :root[data-theme="dark"] .panel h3, :root[data-theme="dark"] .panel label, :root[data-theme="dark"] .panel .metric, :root[data-theme="dark"] .overview-hero h2 { color: #f5f5f7; }
+  :root[data-theme="dark"] .panel .metric-label { color: #d1d3da; }
+  :root[data-theme="dark"] .panel .metric-detail, :root[data-theme="dark"] .panel .muted, :root[data-theme="dark"] .panel .panel-caption, :root[data-theme="dark"] .panel .legend, :root[data-theme="dark"] .panel .control-help, :root[data-theme="dark"] .panel .overview-steps p, :root[data-theme="dark"] .panel .vessel-block, :root[data-theme="dark"] .overview-steps p, :root[data-theme="dark"] .overview-hero p, :root[data-theme="dark"] .overview-hero .page-context { color: #b9bdc7; }
+  :root[data-theme="dark"] .panel .positive, :root[data-theme="dark"] .panel .metric-change { color: #8cd5a7; }
+  :root[data-theme="dark"] .panel .negative { color: #ffada5; }
+  :root[data-theme="dark"] .panel .factor-value, :root[data-theme="dark"] .panel .control output { color: #a9d0ff; }
+  :root[data-theme="dark"] .panel a, :root[data-theme="dark"] .overview-hero a:not(.primary) { color: #9bc6ff; }
+  :root[data-theme="dark"] .panel .status-label { color: #b7c9df; }
+  :root[data-theme="dark"] .panel .metric-icon {
+    color: #c3ddff;
+    background: #ffffff12;
+    border: 1px solid #ffffff0e;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px #0000001a;
+  }
+  :root[data-theme="dark"] .panel .tag, :root[data-theme="dark"] .panel .step-number {
+    background: #ffffff0e;
+    color: #c3ddff;
+    border-color: #ffffff24;
+  }
+  :root[data-theme="dark"] .panel .control, :root[data-theme="dark"] .panel .readout, :root[data-theme="dark"] .panel .timeline > div {
+    border-color: #ffffff1c;
+  }
+  :root[data-theme="dark"] .panel input, :root[data-theme="dark"] .panel select, :root[data-theme="dark"] .panel textarea {
+    background: #ffffff0d;
+    color: #f5f5f7;
+    border-color: #ffffff26;
+    border-radius: 12px;
+    box-shadow: inset 0 1px 0 #ffffff03;
+  }
+  :root[data-theme="dark"] .panel input::placeholder, :root[data-theme="dark"] .panel textarea::placeholder { color: #b9bdc7; opacity: 1; }
+  :root[data-theme="dark"] .panel select option { background: #232326; color: #f5f5f7; }
+  :root[data-theme="dark"] .panel input[type=range] { background: transparent; border: 0; box-shadow: none; accent-color: #9bc6ff; }
+  :root[data-theme="dark"] .panel input[type=file]::file-selector-button { background: #ffffff14; color: #f5f5f7; }
+  :root[data-theme="dark"] .panel :focus-visible, :root[data-theme="dark"] .overview-hero :focus-visible { outline-color: #a9d0ff; }
+  :root[data-theme="dark"] .panel button:not(.primary):not(.tile), :root[data-theme="dark"] .panel .pill:not(.primary) {
+    color: #f5f5f7;
+    background: #ffffff0e;
+    border-color: #ffffff24;
+    border-radius: 999px;
+    box-shadow: 0 2px 6px #00000012;
+  }
+  :root[data-theme="dark"] .panel button.primary, :root[data-theme="dark"] .panel .pill.primary, :root[data-theme="dark"] .overview-hero .pill.primary {
+    color: #fff;
+    background: #0071e3;
+    border-color: #2384e9;
+  }
+  :root[data-theme="dark"] .panel td button:not(.primary):not(.tile) {
+    color: #9bc6ff;
+    background: transparent;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: none;
+  }
+  :root[data-theme="dark"] .panel th { background: #28292c; color: #c7cbd3; }
+  :root[data-theme="dark"] .panel td { color: #eceef2; }
+  :root[data-theme="dark"] .panel td, :root[data-theme="dark"] .panel th { border-color: #ffffff18; }
+  :root[data-theme="dark"] .panel .table-wrap { scrollbar-color: #5c5d62 #1a1a1c; }
+  :root[data-theme="dark"] .panel .bar-track { background: #ffffff12; }
+  :root[data-theme="dark"] .panel .bar-fill { background: #859ab2; }
+  :root[data-theme="dark"] .panel .bar-fill.green { background: #83b5ef; }
+  :root[data-theme="dark"] .panel .bar-fill.grey { background: #b6b9c2; }
+  :root[data-theme="dark"] .panel .line-chart text { fill: #c2c7d1; }
+  :root[data-theme="dark"] .panel .line-chart polyline { stroke: #94c5ff; }
+  :root[data-theme="dark"] .panel .line-chart line[stroke-dasharray='7 5'] { stroke: #8cd5a7; }
+  :root[data-theme="dark"] .panel .vessel { background: #171e27; border-color: #536b87; }
+  :root[data-theme="dark"] .panel .water { background: #295780; border-color: #9bc6ff; }
+  :root[data-theme="dark"] .panel .water-label { color: #f5f5f7; }
+  :root[data-theme="dark"] .panel .heat .good { color: #a3e3bb; background: #203a2b; }
+  :root[data-theme="dark"] .panel .heat .bad { color: #ffd0ba; background: #462c25; }
+  :root[data-theme="dark"] .panel .tile-group h3 { color: #c7cbd3; }
+  :root[data-theme="dark"] .panel .notice { background: #8bbaff0e; border-color: #8bbaff30; color: #c4cedd; }
+  :root[data-theme="dark"] .panel .notice.warn { background: #ffce750c; border-color: #ffce7533; color: #f3d39c; }
+  :root[data-theme="dark"] .panel summary { color: #9bc6ff; }
+  :root[data-theme="dark"] .overview-hero .hero-ring circle:first-child { stroke: #ffffff15; }
+  :root[data-theme="dark"] .overview-hero .hero-ring circle:last-child { stroke: #9bc6ff; }
+  :root[data-theme="dark"] .overview-hero .hero-ring-text strong { color: #e0edff; }
+  :root[data-theme="dark"] .overview-hero .hero-ring-text span { color: #b9bdc7; }
+
+  @media (hover:hover) and (pointer:fine) {
+  :root[data-theme="dark"] .panel button:not(.primary):not(.tile):hover, :root[data-theme="dark"] .panel .pill:not(.primary):hover { background: #ffffff1a; border-color: #ffffff40; }
+  :root[data-theme="dark"] .panel button.primary:hover, :root[data-theme="dark"] .overview-hero .pill.primary:hover { background: #0064cd; }
+  :root[data-theme="dark"] .panel tr:hover td { background: #ffffff07; }
+  :root[data-theme="dark"] .panel .tile:hover { outline-color: #d7e9ff; }
+  }
+  @media (max-width:700px) {
+  :root[data-theme="dark"] .panel, :root[data-theme="dark"] .panel.accent, :root[data-theme="dark"] .metrics .panel, :root[data-theme="dark"] .metrics .panel.accent, :root[data-theme="dark"] .overview-hero {
+      border-radius: 20px;
+      box-shadow: 0 10px 26px -18px #10182766, inset 0 1px 0 #ffffff0b;
+    }
+  }
+  @media (prefers-reduced-transparency:reduce) {
+  :root[data-theme="dark"] .panel, :root[data-theme="dark"] .panel.accent, :root[data-theme="dark"] .metrics .panel, :root[data-theme="dark"] .metrics .panel.accent, :root[data-theme="dark"] .overview-hero {
+      background: #1b1b1e;
+      backdrop-filter: none;
+      -webkit-backdrop-filter: none;
+    }
+  }
+  @media (prefers-contrast:more) {
+  :root[data-theme="dark"] .panel, :root[data-theme="dark"] .panel.accent, :root[data-theme="dark"] .metrics .panel, :root[data-theme="dark"] .metrics .panel.accent, :root[data-theme="dark"] .overview-hero {
+      background: #121212;
+      color: #fff;
+      border-color: #a2a9b4;
+      backdrop-filter: none;
+      -webkit-backdrop-filter: none;
+    }
+  :root[data-theme="dark"] .panel input, :root[data-theme="dark"] .panel select, :root[data-theme="dark"] .panel textarea { border-color: #a2a9b4; }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "label": "DATA SIMULASI",
+  "n": 30,
+  "definition": "Planning quotas and bounds use V_proxy; evaluation uses perturbed V_true of same total, fixed r_true, and benefit(min(x,V_true),V_true,r_true). No refit; isolates need-proxy error. Excess planned quota is counted separately, not silently reallocated.",
+  "sensitivity_V": {
+    "galat lognormal sigma=0,25": {
+      "EduShield (KKT)": {
+        "median": 6.091730578972266,
+        "p5": 4.331964578758467,
+        "p95": 8.475383602517566
+      },
+      "Proporsional risiko": {
+        "median": 6.146823331919682,
+        "p5": 4.621590514024479,
+        "p95": 8.525123907378111
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 0.23307739032234487,
+        "p5": -2.5703814902158917,
+        "p95": 3.1080357051506344
+      }
+    },
+    "kebutuhan terpencil 25% lebih tinggi": {
+      "EduShield (KKT)": {
+        "median": 9.961799788902393,
+        "p5": 7.768738713733578,
+        "p95": 12.173205201537305
+      },
+      "Proporsional risiko": {
+        "median": 10.088538143902737,
+        "p5": 8.106141223649535,
+        "p95": 12.216541034820983
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 4.826911697386849,
+        "p5": 2.055647183171521,
+        "p95": 7.654093644775136
+      }
+    },
+    "kebutuhan terpencil 25% lebih rendah": {
+      "EduShield (KKT)": {
+        "median": 1.8369926788136426,
+        "p5": 0.7721467199551436,
+        "p95": 2.8172087221006676
+      },
+      "Proporsional risiko": {
+        "median": 1.9085447959429014,
+        "p5": 0.8725399502305987,
+        "p95": 2.9196701125529065
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": -3.8258032754475924,
+        "p5": -6.291703204156891,
+        "p95": -1.8805796388578113
+      }
+    },
+    "galat berbeda gugus dan wilayah": {
+      "EduShield (KKT)": {
+        "median": 10.377168670392956,
+        "p5": 8.378194031482666,
+        "p95": 13.209250328091654
+      },
+      "Proporsional risiko": {
+        "median": 10.596136436850156,
+        "p5": 8.586173291379803,
+        "p95": 13.290333963925079
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 4.743358781609008,
+        "p5": 1.7389582704093798,
+        "p95": 8.05562999453241
+      }
+    }
+  },
+  "excess_capacity_pct": {
+    "galat lognormal sigma=0,25": {
+      "EduShield (KKT)": {
+        "median": 2.1684589293995034,
+        "p5": 1.5335776344348333,
+        "p95": 2.897556226877918
+      },
+      "Proporsional risiko": {
+        "median": 2.1908152620717827,
+        "p5": 1.5928519056808075,
+        "p95": 2.9481003511736708
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 6.512354711822612,
+        "p5": 5.118497345481422,
+        "p95": 7.797137689569926
+      }
+    },
+    "kebutuhan terpencil 25% lebih tinggi": {
+      "EduShield (KKT)": {
+        "median": 0.0,
+        "p5": 0.0,
+        "p95": 0.0
+      },
+      "Proporsional risiko": {
+        "median": 0.0,
+        "p5": 0.0,
+        "p95": 0.0
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 0.0,
+        "p5": 0.0,
+        "p95": 0.0
+      }
+    },
+    "kebutuhan terpencil 25% lebih rendah": {
+      "EduShield (KKT)": {
+        "median": 3.2800887198209763,
+        "p5": 2.7549350485846995,
+        "p95": 3.8026892157376633
+      },
+      "Proporsional risiko": {
+        "median": 3.3502513757526233,
+        "p5": 2.860467671012173,
+        "p95": 3.948024730256822
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 4.533334553058884,
+        "p5": 4.21077674568077,
+        "p95": 4.688294465356473
+      }
+    },
+    "galat berbeda gugus dan wilayah": {
+      "EduShield (KKT)": {
+        "median": 1.0936479995334936,
+        "p5": 0.7106588346558498,
+        "p95": 2.01589200662448
+      },
+      "Proporsional risiko": {
+        "median": 1.1616531823624336,
+        "p5": 0.6808385979308981,
+        "p95": 2.0640996054199663
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 6.1737745256115515,
+        "p5": 4.794847575007621,
+        "p95": 7.602849660961307
+      }
+    }
+  },
+  "corrected_need_quota_reallocation_pct": {
+    "galat lognormal sigma=0,25": {
+      "EduShield (KKT)": {
+        "median": 10.097714860435435,
+        "p5": 9.20675711489701,
+        "p95": 10.761016442710975
+      },
+      "Proporsional risiko": {
+        "median": 10.06535903473948,
+        "p5": 9.21598090036415,
+        "p95": 10.768574627904636
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 10.537240715087218,
+        "p5": 9.328240896200313,
+        "p95": 11.408406818911493
+      }
+    },
+    "kebutuhan terpencil 25% lebih tinggi": {
+      "EduShield (KKT)": {
+        "median": 4.708491138036951,
+        "p5": 4.436315619781598,
+        "p95": 4.9707378352174265
+      },
+      "Proporsional risiko": {
+        "median": 4.674956232494675,
+        "p5": 4.3934752764924685,
+        "p95": 4.9645100554034824
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 5.201424882229057,
+        "p5": 4.874710293514128,
+        "p95": 5.330499257787966
+      }
+    },
+    "kebutuhan terpencil 25% lebih rendah": {
+      "EduShield (KKT)": {
+        "median": 5.157500457968758,
+        "p5": 4.8665165799278505,
+        "p95": 5.432674064085821
+      },
+      "Proporsional risiko": {
+        "median": 5.1400838474791835,
+        "p5": 4.833772613347811,
+        "p95": 5.448813200633934
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 5.621083868747844,
+        "p5": 5.287027966632992,
+        "p95": 5.7675797246374625
+      }
+    },
+    "galat berbeda gugus dan wilayah": {
+      "EduShield (KKT)": {
+        "median": 11.826426071269877,
+        "p5": 11.264712908344006,
+        "p95": 12.87734894909157
+      },
+      "Proporsional risiko": {
+        "median": 11.81303115286108,
+        "p5": 11.250595321986175,
+        "p95": 12.831073844574858
+      },
+      "Greedy (risiko tertinggi)": {
+        "median": 13.108915572134215,
+        "p5": 12.398108786051962,
+        "p95": 14.732752341680216
+      }
+    }
+  },
+  "equal_protection_transition": {
+    "KKT": [
+      {
+        "median": 6.9558580396331005,
+        "p5": 5.744631320748957,
+        "p95": 8.765757368422316
+      },
+      {
+        "median": 7.500215080069772,
+        "p5": 5.928750983126649,
+        "p95": 9.229757451380747
+      },
+      {
+        "median": 7.591813750580645,
+        "p5": 6.028158423719696,
+        "p95": 9.306092184088481
+      },
+      {
+        "median": 7.552010665916065,
+        "p5": 5.924724054922699,
+        "p95": 9.371162400324835
+      },
+      {
+        "median": 7.484085394786688,
+        "p5": 5.714301747167681,
+        "p95": 9.386622477241977
+      }
+    ],
+    "Proporsional": [
+      {
+        "median": 6.9776427849061795,
+        "p5": 5.804795224112438,
+        "p95": 8.793338187456547
+      },
+      {
+        "median": 7.469259152690899,
+        "p5": 5.933633741493989,
+        "p95": 9.222525526923821
+      },
+      {
+        "median": 7.598017294321336,
+        "p5": 6.106820388820207,
+        "p95": 9.264202112492487
+      },
+      {
+        "median": 7.58178553494564,
+        "p5": 6.00022507778794,
+        "p95": 9.344778888137789
+      },
+      {
+        "median": 7.573757937052306,
+        "p5": 5.8830588197848135,
+        "p95": 9.379469937564604
+      }
+    ]
+  }
+}

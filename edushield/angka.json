@@ -1,0 +1,178 @@
+{
+  "aps_712": {
+    "formatted": "99,23",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "aps_nat": {
+    "formatted": "77,86",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "aps_pt": {
+    "formatted": "44,61",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "aps_diy": {
+    "formatted": "93,03",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "ats_q1": {
+    "formatted": "30,66",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "ats_q5": {
+    "formatted": "14,67",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "ats_ratio": {
+    "formatted": "2,1",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "n_kab": {
+    "formatted": "514",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "V_total": {
+    "formatted": "853.330",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "B_miliar": {
+    "formatted": "844,80",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "mae": {
+    "formatted": "0,670",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "mae_hist": {
+    "formatted": "0,320",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "spearman": {
+    "formatted": "0,769",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "auc": {
+    "formatted": "0,907",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "auc_pov": {
+    "formatted": "0,863",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "sup_true": {
+    "formatted": "38,05",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "sup_hat": {
+    "formatted": "23,36",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "gap_kkt": {
+    "formatted": "75,8",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "gap_prop": {
+    "formatted": "76,8",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "gap_pov": {
+    "formatted": "24,0",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "gap_greedy": {
+    "formatted": "23,5",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "greedy_cover": {
+    "formatted": "89,65",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "kkt_cover": {
+    "formatted": "82,13",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "greedy_gain0": {
+    "formatted": "5,28",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "kkt_gain0": {
+    "formatted": "8,76",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "oracle_mc": {
+    "formatted": "97,82",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "merata_oracle": {
+    "formatted": "91,0",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "gain_mc": {
+    "formatted": "7,34",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "gain_p5": {
+    "formatted": "5,71",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "gain_p95": {
+    "formatted": "9,41",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "prop_mc": {
+    "formatted": "7,54",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "kkt_wins": {
+    "formatted": "4",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "true_kkt": {
+    "formatted": "9,92",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "true_prop": {
+    "formatted": "9,84",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "lambda": {
+    "formatted": "6,77",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "V_low_kkt": {
+    "formatted": "1,84",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "V_low_prop": {
+    "formatted": "1,91",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "pagu30": {
+    "formatted": "20,16",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "pagu80": {
+    "formatted": "2,14",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "sby_y5": {
+    "formatted": "32,5",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "hh1": {
+    "formatted": "6,96",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "hhgap": {
+    "formatted": "0,39",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "solver_error": {
+    "formatted": "3 × 10⁻¹⁵",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  },
+  "solve_ms": {
+    "formatted": "4",
+    "origin": "summary/gap_followup/stress_followup/browser_report.json or BPS CSV"
+  }
+}
