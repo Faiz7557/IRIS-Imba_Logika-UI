@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2026
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/18?tahun=2026&download=1
+# Diakses: 2026-11-16
+# Ukuran: 7314
+# SHA-256: dcbc510f48e2eac70cdc26bfa52373a641706c46743492e69771672e4ddeb750
+# Format: application/vnd.ms-excel (isi berkas: xlsx/OOXML, tanda ZIP PK; Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2026 Provinsi Prov. Sulawesi Tengah-202611161220:23.xlsx")
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Mon, 16 Nov 2026 12:11:24 GMT
+Content-Type: application/vnd.ms-excel
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=f42039ab9bc4eec8ee763d270de7b7ca; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-Control: max-age=0
+Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Semua Provinsi -202611161211:24.xlsx"
+

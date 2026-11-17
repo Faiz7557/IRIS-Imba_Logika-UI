@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Mon, 16 Nov 2026 12:15:02 GMT
+Content-Type: application/vnd.ms-excel
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=87fce5a130a2ae90abb857daefd58428; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-Control: max-age=0
+Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. Bali-202611161215:02.xlsx"
+

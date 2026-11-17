@@ -1,0 +1,7 @@
+# Sumber: BPS (Badan Pusat Statistik), halaman publikasi Statistik Pendidikan 2025
+# URL: https://www.bps.go.id/id/publication/2025/11/21/d048070f37740b0e04d99350/statistik-pendidikan-2025.html
+# Diakses: 2026-11-16
+# Ukuran: 98998
+# SHA-256: 463528244800dcbc615b133de9d0bcc9a38e9b805719f94941b55d662a40dfe0
+# Format: text/html; charset=utf-8 (halaman publikasi, dipakai untuk menemukan tautan PDF)
+# Lisensi/catatan: halaman mencantumkan "Hak Cipta © 2023 Badan Pusat Statistik"; tanpa login atau CAPTCHA

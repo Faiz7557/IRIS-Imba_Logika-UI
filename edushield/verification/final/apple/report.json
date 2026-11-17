@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "routes": [
+    "beranda",
+    "peta",
+    "simulator",
+    "audit",
+    "replay",
+    "usulan",
+    "lembar",
+    "metode"
+  ],
+  "legacyRoutes": 18,
+  "routeViewportChecks": 48,
+  "viewports": [
+    1440,
+    1024,
+    1023,
+    768,
+    390,
+    375
+  ],
+  "tourRuns": 4,
+  "nativeDownload": "PASS",
+  "downloadScope": "Hasil unduhan native tertera di atas; Blob CSV dan JSON divalidasi tersendiri.",
+  "sliderSolveMs": 2.699999988079071,
+  "pageErrors": [],
+  "externalRequests": [],
+  "checks": [
+    "8 rute x 6 lebar: satu h1, banner simulasi, satu tautan aktif, judul dokumen, tanpa kode lama, tanpa overflow, tanpa [object Object]/undefined/NaN",
+    "sidebar: empat judul grup bukan tautan, kartu skenario Rp miliar, ciut 68px tersimpan setelah muat ulang, tombol ciut tersembunyi di 390",
+    "hero Beranda: mode 3d, tombol 2D memaksa peta SVG 514 wilayah, putar mati saat reduced motion, tema gelap dibangun ulang, satu kanvas setelah 20x pindah rute, klik -> Peta risiko",
+    "18 kode lama beralih sesuai TRD §6 (1440 dan 390), entri lama diganti (Kembali ke rute sebelumnya), hash tak dikenal -> #beranda",
+    "#peta memuat 514 path[data-i]; klik wilayah mengganti profil",
+    "sidebar mobile: dialog, jebakan fokus melingkar, Escape, pengembalian fokus, pergantian peran tanpa pindah rute",
+    "#simulator: penggeser, batas ditolak, drag kontinu pada elemen yang sama, bejana ikut, atur ulang, pencarian, pilih wilayah, tab ARIA (panah/Home/End) dan mode",
+    "alur usulan: kirim (analis) -> koreksi (dinas) -> terima (analis) -> final, validasi V/alasan, penjaga peran, kuota berubah, bertahan setelah muat ulang",
+    "#lembar: status final, CSV dan JSON dari handler asli (514 baris, kuota bulat, <= pagu, log), unduhan native dicatat, cetak, PDF, tampilan cetak; atur ulang alur memulihkan kuota",
+    "#metode: disclosure terbuka",
+    "teks diperbesar: delapan rute tanpa overflow pada 1440 dan 390",
+    "laci dapat dibalik saat bergerak; pengurangan gerak langsung selesai; hash tak dikenal",
+    "tur enam langkah hanya dengan papan ketik (panah, Enter, Escape, fokus kembali, ulang, mundur) pada 1440 dan 390; ?demo=1 dua kali identik dan tidak menimpa tema"
+  ]
+}

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Mon, 16 Nov 2026 12:19:42 GMT
+Content-Type: application/vnd.ms-excel
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=41eb16f4c7da202c6915bb078d6c8650; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-Control: max-age=0
+Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2026 Provinsi Prov. Lampung-202611161219:42.xlsx"
+

@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2025
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/04?tahun=2025&download=1
+# Diakses: 2026-11-16
+# Ukuran: 5462
+# SHA-256: 2f27cb2ff7a2cb31d1278c60af1d118d32da8b8202da0674c46590255e2691ee
+# Format: application/vnd.ms-excel (isi berkas: xlsx/OOXML, tanda ZIP PK; Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. D.I. Yogyakarta-202611161212:48.xlsx")
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

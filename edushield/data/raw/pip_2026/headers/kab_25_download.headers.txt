@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Mon, 16 Nov 2026 12:21:06 GMT
+Content-Type: application/vnd.ms-excel
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=75ffb8fda4d6f61e3f2be84c62b2b853; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-Control: max-age=0
+Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2026 Provinsi Prov. Papua-202611161221:06.xlsx"
+

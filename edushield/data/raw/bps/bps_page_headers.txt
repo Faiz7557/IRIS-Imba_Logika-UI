@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Mon, 16 Nov 2026 12:15:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+content-security-policy: default-src 'self' *.bps.go.id fonts.googleapis.com www.youtube-nocookie.com www.youtube.com www.google-analytics.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' website-widgets.pages.dev www.google-analytics.com www.googletagmanager.com https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js static.cloudflareinsights.com www.bps.go.id; style-src 'self' 'unsafe-inline' fonts.googleapis.com www.googletagmanager.com; img-src 'self' blob: data: *.bps.go.id www.googletagmanager.com fonts.gstatic.com i.ytimg.com; font-src 'self' data: fonts.gstatic.com; connect-src 'self' *.bps.go.id fonts.googleapis.com www.youtube-nocookie.com www.youtube.com www.google-analytics.com widget.komdigi.go.id; object-src 'none'; base-uri 'self'; form-action 'self' https://*.bps.go.id https://searchengine.web.bps.go.id/search; frame-ancestors 'none'; block-all-mixed-content; upgrade-insecure-requests;
+x-language-preference: id
+x-nonce: M2NkNDAwYjctZjk2Yi00MGQxLTljMWItMjczM2E3MmQxNTdj
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+referrer-policy: same-origin
+expect-ct: max-age=86400, enforce
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=16070400; includeSubDomains
+cf-cache-status: DYNAMIC
+link: </_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/chunks/14miscq164-3u.css>; rel=preload; as="style", </_next/static/chunks/29rdf15xvsczu.css>; rel=preload; as="style"
+Set-Cookie: 6e691c9a28613fd0458a801996d27c33=23be6d611d16eb5a1d013ab8dee773d6; path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: BIGipServerpool_kube-worker_80=110755850.20480.0000; path=/; Httponly; Secure; SameSite=Lax
+Set-Cookie: TS0130d79a=0167a1c86157924bcc137df1d5b2e02a99011840b04bc7c4d3ae761d4656565fb271a2aaaa700856f6d52ece888428f81c42d48eaf; Path=/; Domain=.bps.go.id; Secure; HttpOnly; SameSite=Lax
+set-cookie: __cf_bm=5A6ITNs.ls9Imo58ERkZRJPtNFuK_OJae_ktUZhkPI8-1794831342.4260178-1.0.1.1-t6I1y9L15NMmvjFbomb88kHlA.lyEV9JviV1rphIf.wXn_6u461f4fiDy8BiBqc.Gih1VTXV4u8ZQrSYEvLfUqfTg9v3kqMn_gHeBIxtUgnjf1NgznL6g33NkgwBlIO3; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=bps.go.id; Expires=Mon, 16 Nov 2026 12:45:42 GMT
+Server: cloudflare
+CF-RAY: a5b66c322a7bf8e4-SIN
+alt-svc: h3=":443"; ma=86400
+

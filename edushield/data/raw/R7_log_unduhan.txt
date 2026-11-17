@@ -1,0 +1,161 @@
+[19:11:24] nasional download=1
+[19:12:12] TAHUN 2025: jumlah kode provinsi dari halaman nasional = 38
+OK html kode=01
+OK download kode=01 ext=xlsx
+OK html kode=02
+OK download kode=02 ext=xlsx
+OK html kode=03
+OK download kode=03 ext=xlsx
+OK html kode=04
+OK download kode=04 ext=xlsx
+OK html kode=05
+OK download kode=05 ext=xlsx
+OK html kode=06
+OK download kode=06 ext=xlsx
+OK html kode=07
+OK download kode=07 ext=xlsx
+OK html kode=08
+OK download kode=08 ext=xlsx
+OK html kode=09
+OK download kode=09 ext=xlsx
+OK html kode=10
+OK download kode=10 ext=xlsx
+OK html kode=11
+OK download kode=11 ext=xlsx
+OK html kode=12
+OK download kode=12 ext=xlsx
+OK html kode=13
+OK download kode=13 ext=xlsx
+OK html kode=14
+OK download kode=14 ext=xlsx
+OK html kode=15
+OK download kode=15 ext=xlsx
+OK html kode=16
+OK download kode=16 ext=xlsx
+OK html kode=17
+OK download kode=17 ext=xlsx
+OK html kode=18
+OK download kode=18 ext=xlsx
+OK html kode=19
+OK download kode=19 ext=xlsx
+OK html kode=20
+OK download kode=20 ext=xlsx
+OK html kode=21
+OK download kode=21 ext=xlsx
+OK html kode=22
+OK download kode=22 ext=xlsx
+OK html kode=23
+OK download kode=23 ext=xlsx
+OK html kode=24
+OK download kode=24 ext=xlsx
+[19:15:23] GEO
+OK html kode=25
+OK download kode=25 ext=xlsx
+OK html kode=26
+OK download kode=26 ext=xlsx
+OK html kode=27
+[19:15:40] BPS halaman publikasi
+OK download kode=27 ext=xlsx
+OK html kode=28
+OK download kode=28 ext=xlsx
+OK html kode=29
+OK download kode=29 ext=xlsx
+OK html kode=30
+OK download kode=30 ext=xlsx
+[19:16:01] BPS PDF
+OK html kode=31
+OK download kode=31 ext=xlsx
+OK html kode=32
+OK download kode=32 ext=xlsx
+OK html kode=33
+OK download kode=33 ext=xlsx
+OK html kode=34
+OK download kode=34 ext=xlsx
+OK html kode=36
+OK download kode=36 ext=xlsx
+OK html kode=37
+OK download kode=37 ext=xlsx
+OK html kode=38
+OK download kode=38 ext=xlsx
+OK html kode=39
+OK download kode=39 ext=xlsx
+[19:17:08] SELESAI TAHUN 2025
+[19:17:38] TAHUN 2026 halaman nasional
+[19:17:55] TAHUN 2026: jumlah kode provinsi dari halaman nasional = 38
+OK html kode=01
+OK download kode=01 ext=xlsx
+OK html kode=02
+OK download kode=02 ext=xlsx
+OK html kode=03
+OK download kode=03 ext=xlsx
+OK html kode=04
+OK download kode=04 ext=xlsx
+OK html kode=05
+OK download kode=05 ext=xlsx
+OK html kode=06
+OK download kode=06 ext=xlsx
+OK html kode=07
+OK download kode=07 ext=xlsx
+OK html kode=08
+OK download kode=08 ext=xlsx
+OK html kode=09
+OK download kode=09 ext=xlsx
+OK html kode=10
+OK download kode=10 ext=xlsx
+OK html kode=11
+OK download kode=11 ext=xlsx
+OK html kode=12
+OK download kode=12 ext=xlsx
+OK html kode=13
+OK download kode=13 ext=xlsx
+OK html kode=14
+OK download kode=14 ext=xlsx
+OK html kode=15
+OK download kode=15 ext=xlsx
+OK html kode=16
+OK download kode=16 ext=xlsx
+OK html kode=17
+OK download kode=17 ext=xlsx
+OK html kode=18
+OK download kode=18 ext=xlsx
+OK html kode=19
+OK download kode=19 ext=xlsx
+OK html kode=20
+OK download kode=20 ext=xlsx
+OK html kode=21
+OK download kode=21 ext=xlsx
+OK html kode=22
+OK download kode=22 ext=xlsx
+OK html kode=23
+OK download kode=23 ext=xlsx
+OK html kode=24
+OK download kode=24 ext=xlsx
+OK html kode=25
+OK download kode=25 ext=xlsx
+OK html kode=26
+OK download kode=26 ext=xlsx
+OK html kode=27
+OK download kode=27 ext=xlsx
+OK html kode=28
+OK download kode=28 ext=xlsx
+OK html kode=29
+OK download kode=29 ext=xlsx
+OK html kode=30
+OK download kode=30 ext=xlsx
+OK html kode=31
+OK download kode=31 ext=xlsx
+OK html kode=32
+OK download kode=32 ext=xlsx
+OK html kode=33
+OK download kode=33 ext=xlsx
+OK html kode=34
+OK download kode=34 ext=xlsx
+OK html kode=36
+OK download kode=36 ext=xlsx
+OK html kode=37
+OK download kode=37 ext=xlsx
+OK html kode=38
+OK download kode=38 ext=xlsx
+OK html kode=39
+OK download kode=39 ext=xlsx
+[19:22:52] SELESAI TAHUN 2026

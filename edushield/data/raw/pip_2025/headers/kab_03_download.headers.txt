@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Mon, 16 Nov 2026 12:12:41 GMT
+Content-Type: application/vnd.ms-excel
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=5e43a5845a38328e3838d06a1a1bfded; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-Control: max-age=0
+Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. Jawa Tengah-202611161212:41.xlsx"
+

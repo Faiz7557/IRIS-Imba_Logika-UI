@@ -1,0 +1,34 @@
+/* U2: peta risiko. Warna kelas I-IV = petak radar lama; terang dan gelap. */
+.peta-panel{--pk0:#e6eff8;--pk1:#a8c9ec;--pk2:#3679b9;--pk3:#1c4268;--pe:#7b8ea6;--pf:#fff;--pmk:#111;--psel:#c2410c}
+:root[data-theme=dark] .peta-panel{--pk0:#36414f;--pk1:#3d5f88;--pk2:#6aa6e6;--pk3:#b9dafc;--pe:#101216;--pf:#0b1626;--pmk:#fff;--psel:#ffb36b}
+.peta-head h1{margin:2px 0 6px}.peta-sim{margin:0 0 16px;font-size:.8rem;color:var(--muted)}.peta-sim b{color:var(--ink)}
+.peta-wrap{position:relative}.peta-svg{display:block;width:100%;height:auto;max-height:72vh}
+.peta-svg path[data-i],.peta-svg .peta-sel{stroke:var(--pe);stroke-width:.5;vector-effect:non-scaling-stroke;stroke-linejoin:round}
+.pk0{fill:var(--pk0)}.pk1{fill:var(--pk1)}.pk2{fill:url(#pk-p2)}.pk3{fill:url(#pk-p3)}
+.pb2{fill:var(--pk2)}.pb3{fill:var(--pk3)}.pf{fill:var(--pf)}
+.peta-svg path.dim,.peta-svg .peta-mk.dim{opacity:.18}
+.peta-svg path[data-i]:hover{stroke:var(--psel);stroke-width:1.5}
+.peta-svg .peta-sel{fill:none;stroke:var(--psel);stroke-width:2.5;pointer-events:none}
+.peta-mk{stroke:var(--pmk);stroke-width:1.2;vector-effect:non-scaling-stroke;cursor:pointer}
+.pc0{fill:var(--pk0)}.pc1{fill:var(--pk1)}.pc2{fill:var(--pk2)}.pc3{fill:var(--pk3)}
+.peta-mk:hover{stroke:var(--psel);stroke-width:2.5}
+.peta-tip{position:absolute;z-index:3;max-width:min(320px,90%);padding:6px 10px;border-radius:8px;background:var(--ink);color:var(--surface);font-size:.75rem;line-height:1.4;pointer-events:none}
+.peta-legend{display:flex;flex-wrap:wrap;gap:8px 20px;list-style:none;padding:0;margin:12px 0 4px;font-size:.8rem}
+.peta-legend li{display:flex;align-items:center;gap:8px}.peta-legend svg{border:1px solid var(--pe);border-radius:3px}
+.peta-hint,.peta-attr{font-size:.72rem;margin:6px 0 0}
+.peta-skip{position:absolute;left:-9999px}.peta-skip:focus{position:static;margin:4px 0}
+.peta-nama{margin:22px 0 4px;font-size:1.3rem}.peta-nama small{font-weight:400;color:var(--muted);font-size:.8rem}
+.peta-more{margin-left:8px}.peta-next{margin:22px 0;display:flex;justify-content:flex-end}
+#peta-tabel [aria-current]{font-weight:700;text-decoration:underline}
+@media(prefers-reduced-motion:no-preference){.peta-svg path.dim,.peta-mk{transition:opacity .2s}}
+@media(prefers-reduced-motion:reduce){.peta-svg *{transition:none!important}}
+/* U8: layar Replay */
+.rp-svg{display:block;width:100%;height:auto;margin:8px 0 14px}.rp-grid{stroke:var(--line);stroke-width:1}.rp-zero{stroke:var(--ink);stroke-width:1.5}
+.rp-tick,.rp-lab,.rp-val{font:12px 'Segoe UI',system-ui,sans-serif;fill:var(--muted)}.rp-lab{fill:var(--ink)}.rp-main{font-weight:700}.rp-val{fill:var(--ink);font-weight:600}
+.rp-whisk{stroke:var(--ink);stroke-width:1.5}.rp-bar{fill:#6f8fb5}.rp-hi{fill:#2f6db0}.rp-neg{fill:#b4553a}
+:root[data-theme=dark] .rp-bar{fill:#6a8fbd}:root[data-theme=dark] .rp-hi{fill:#9bc6ff}:root[data-theme=dark] .rp-neg{fill:#e59a7f}
+.rp-time{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:12px}.rp-time div{display:flex;flex-direction:column}.rp-time b{font-size:1.6rem;font-variant-numeric:tabular-nums}.rp-time span{font-size:.8rem;color:var(--muted)}.rp-arrow{font-size:1.4rem;color:var(--muted)}
+.rp-must{margin:6px 0 16px}.rp-src{font-size:.75rem;margin-top:12px}.rp-grid3 .metric{font-size:clamp(1.5rem,2.4vw,2.2rem)}
+/* Hero 3D (viz/peta3d.js): tinggi bawaan 12:5, bisa ditimpa layar pemakai; tidak dicetak. */
+.peta3d{position:relative;aspect-ratio:12/5}.peta3d canvas{display:block;width:100%;height:100%;touch-action:pan-y}
+@media print{.peta3d{display:none}}

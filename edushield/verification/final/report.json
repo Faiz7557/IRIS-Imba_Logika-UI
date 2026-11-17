@@ -1,0 +1,55 @@
+{
+  "tanggal": "2026-11-16",
+  "sumber": "file:// (tanpa server, tanpa jaringan)",
+  "status": "PASS",
+  "uji": {
+    "test_apple": {
+      "status": "PASS",
+      "routeViewportChecks": 48,
+      "viewports": [
+        1440,
+        1024,
+        1023,
+        768,
+        390,
+        375
+      ],
+      "legacyRoutes": 18,
+      "tourRuns": 4,
+      "pageErrors": 0,
+      "externalRequests": 0
+    },
+    "test_modes": {
+      "status": "PASS",
+      "routeViewportChecks": 96,
+      "widths": [
+        1440,
+        1024,
+        1023,
+        768,
+        390,
+        375
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "pageErrors": 0,
+      "externalRequests": 0
+    },
+    "test_state_icons": {
+      "status": "PASS",
+      "pageErrors": 0
+    },
+    "test_app": "PASS",
+    "test_store": "PASS",
+    "test_kkt": "PASS",
+    "test_geo": "PASS"
+  },
+  "keluaran": [
+    "apple/",
+    "modes/",
+    "state-icons/"
+  ],
+  "log": "rencana-final/bukti/V2_*.txt"
+}

@@ -1,0 +1,153 @@
+{
+ "metode": "split-conformal-LOPO",
+ "nominal": 0.9,
+ "n_seed": 30,
+ "n_wilayah": 514,
+ "uji": "kalibrasi pada realisasi DGP seed s; uji pada realisasi baru seed 1000+s (refit OOF pada obs baru)",
+ "q_global": {
+  "mean": 0.6207490342958321,
+  "median": 0.6165767523403058,
+  "p5": 0.5361998012695889,
+  "p95": 0.748647351452156
+ },
+ "cakupan_global": {
+  "mean": 0.8876783398184175,
+  "median": 0.9075875486381323,
+  "p5": 0.771692607003891,
+  "p95": 0.971011673151751
+ },
+ "cakupan_q_per_gugus_global": {
+  "mean": 0.867639429312581,
+  "median": 0.8842412451361867,
+  "p5": 0.7477626459143969,
+  "p95": 0.9463035019455253
+ },
+ "cakupan_per_gugus": {
+  "Jawa-Bali": {
+   "mean": 0.8817708333333333,
+   "median": 0.921875,
+   "p5": 0.5238281250000001,
+   "p95": 0.996484375
+  },
+  "Kalimantan": {
+   "mean": 0.8732142857142857,
+   "median": 0.875,
+   "p5": 0.7321428571428571,
+   "p95": 0.9821428571428571
+  },
+  "Maluku-Papua": {
+   "mean": 0.8851851851851851,
+   "median": 0.9047619047619048,
+   "p5": 0.7301587301587301,
+   "p95": 0.9841269841269841
+  },
+  "Nusa Tenggara": {
+   "mean": 0.85,
+   "median": 0.953125,
+   "p5": 0.403125,
+   "p95": 1.0
+  },
+  "Sulawesi": {
+   "mean": 0.9024691358024693,
+   "median": 0.9259259259259259,
+   "p5": 0.7179012345679012,
+   "p95": 1.0
+  },
+  "Sumatera": {
+   "mean": 0.8989177489177489,
+   "median": 0.9155844155844156,
+   "p5": 0.7743506493506493,
+   "p95": 0.9935064935064936
+  }
+ },
+ "cakupan_per_gugus_dengan_q_per_gugus": {
+  "Jawa-Bali": {
+   "mean": 0.8375,
+   "median": 0.8828125,
+   "p5": 0.45625000000000004,
+   "p95": 0.996484375
+  },
+  "Kalimantan": {
+   "mean": 0.8279761904761906,
+   "median": 0.8214285714285714,
+   "p5": 0.7044642857142857,
+   "p95": 0.9821428571428571
+  },
+  "Maluku-Papua": {
+   "mean": 0.9026455026455028,
+   "median": 0.9365079365079365,
+   "p5": 0.7126984126984126,
+   "p95": 1.0
+  },
+  "Nusa Tenggara": {
+   "mean": 0.8520833333333333,
+   "median": 0.96875,
+   "p5": 0.2640625,
+   "p95": 1.0
+  },
+  "Sulawesi": {
+   "mean": 0.9098765432098767,
+   "median": 0.9382716049382716,
+   "p5": 0.7481481481481482,
+   "p95": 1.0
+  },
+  "Sumatera": {
+   "mean": 0.8738095238095237,
+   "median": 0.8766233766233766,
+   "p5": 0.736038961038961,
+   "p95": 0.9941558441558441
+  }
+ },
+ "q_per_gugus": {
+  "Jawa-Bali": {
+   "mean": 0.5696691841047906,
+   "median": 0.5430826505740178,
+   "p5": 0.42408746618411375,
+   "p95": 0.752651891262895
+  },
+  "Kalimantan": {
+   "mean": 0.5750315372041356,
+   "median": 0.5433592415480208,
+   "p5": 0.44698710390950624,
+   "p95": 0.7798254424983245
+  },
+  "Maluku-Papua": {
+   "mean": 0.6671632237878069,
+   "median": 0.6602061654615194,
+   "p5": 0.4492295691611648,
+   "p95": 0.8842842789522759
+  },
+  "Nusa Tenggara": {
+   "mean": 0.6498393284844416,
+   "median": 0.6847909000600387,
+   "p5": 0.3424447017630806,
+   "p95": 0.9299395060056297
+  },
+  "Sulawesi": {
+   "mean": 0.6590411892724624,
+   "median": 0.653248365129186,
+   "p5": 0.4459095735699731,
+   "p95": 0.9304186279779193
+  },
+  "Sumatera": {
+   "mean": 0.6098473476288991,
+   "median": 0.596252161870142,
+   "p5": 0.43126879312407207,
+   "p95": 0.9602505647656991
+  }
+ },
+ "n_per_gugus": {
+  "Jawa-Bali": 128,
+  "Kalimantan": 56,
+  "Maluku-Papua": 63,
+  "Nusa Tenggara": 32,
+  "Sulawesi": 81,
+  "Sumatera": 154
+ },
+ "catatan_batas": [
+  "Jaminan cakupan bersifat rata-rata (marginal), bukan per wilayah, dan bergantung pada pertukaran antarprovinsi.",
+  "Pada tingkat data 3 yang dicakup adalah laju simulasi, bukan laju nyata.",
+  "Skor berasal dari prediksi OOF lipatan provinsi (mendekati cross-conformal, bukan split murni): satu q dari skor yang tidak independen sepenuhnya; jaminan formal 1-2a untuk jackknife+/CV+ belum diverifikasi dari sumber.",
+  "Cakupan per gugus tidak dijamin; hanya cakupan rata-rata."
+ ]
+}

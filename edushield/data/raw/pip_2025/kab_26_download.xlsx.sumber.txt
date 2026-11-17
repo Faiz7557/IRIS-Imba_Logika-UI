@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2025
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/26?tahun=2025&download=1
+# Diakses: 2026-11-16
+# Ukuran: 6597
+# SHA-256: cf714f78d680869f73b2f9d589538a32b8db5dc0223c3ec9fca869e54a698a4c
+# Format: application/vnd.ms-excel (isi berkas: xlsx/OOXML, tanda ZIP PK; Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. Bengkulu-202611161215:33.xlsx")
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

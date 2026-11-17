@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Mon, 16 Nov 2026 12:19:57 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: PHPSESSID=108aa0fdc2d0a8e9f5791121631b8c58; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+

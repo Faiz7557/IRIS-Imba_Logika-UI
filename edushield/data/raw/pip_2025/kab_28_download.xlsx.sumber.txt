@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2025
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/28?tahun=2025&download=1
+# Diakses: 2026-11-16
+# Ukuran: 6219
+# SHA-256: 6b1959073f9ac7acce20d787699f72b8dccc0edf1349407271363f46bf2a299e
+# Format: application/vnd.ms-excel (isi berkas: xlsx/OOXML, tanda ZIP PK; Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. Banten-202611161215:47.xlsx")
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

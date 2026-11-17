@@ -1,0 +1,515 @@
+id,nama_aplikasi,provinsi_aplikasi,kode_bps,nama_geojson,provinsi_geojson,aturan
+es-a37d93d388,Simeulue,ACEH,1101,Simeulue,Aceh,nama persis
+es-4c603506a3,Aceh Singkil,ACEH,1102,Aceh Singkil,Aceh,nama persis
+es-1e0fb99e04,Aceh Selatan,ACEH,1103,Aceh Selatan,Aceh,nama persis
+es-88091bee7d,Aceh Tenggara,ACEH,1104,Aceh Tenggara,Aceh,nama persis
+es-58ffcd769e,Aceh Timur,ACEH,1105,Aceh Timur,Aceh,nama persis
+es-4cc618b510,Aceh Tengah,ACEH,1106,Aceh Tengah,Aceh,nama persis
+es-ee3049016f,Aceh Barat,ACEH,1107,Aceh Barat,Aceh,nama persis
+es-31e3eb3c47,Aceh Besar,ACEH,1108,Aceh Besar,Aceh,nama persis
+es-3b9e301b1d,Pidie,ACEH,1109,Pidie,Aceh,nama persis
+es-c196712cbf,Bireuen,ACEH,1110,Bireuen,Aceh,nama persis
+es-a36c9c30bd,Aceh Utara,ACEH,1111,Aceh Utara,Aceh,nama persis
+es-396e6dd0a0,Aceh Barat Daya,ACEH,1112,Aceh Barat Daya,Aceh,nama persis
+es-8c28ac50fc,Gayo Lues,ACEH,1113,Gayo Lues,Aceh,nama persis
+es-acbb800933,Aceh Tamiang,ACEH,1114,Aceh Tamiang,Aceh,nama persis
+es-2adaa85790,Nagan Raya,ACEH,1115,Nagan Raya,Aceh,nama persis
+es-e3199b5987,Aceh Jaya,ACEH,1116,Aceh Jaya,Aceh,nama persis
+es-36895485ac,Bener Meriah,ACEH,1117,Bener Meriah,Aceh,nama persis
+es-2b680ae2bd,Pidie Jaya,ACEH,1118,Pidie Jaya,Aceh,nama persis
+es-b6dba8b5b1,Kota Banda Aceh,ACEH,1171,Kota Banda Aceh,Aceh,nama persis
+es-6302860f31,Kota Sabang,ACEH,1172,Kota Sabang,Aceh,nama persis
+es-b1e66c1996,Kota Langsa,ACEH,1173,Kota Langsa,Aceh,nama persis
+es-3c7286e5c8,Kota Lhokseumawe,ACEH,1174,Kota Lhokseumawe,Aceh,nama persis
+es-84da874063,Kota Subulussalam,ACEH,1175,Kota Subulussalam,Aceh,nama persis
+es-fae91d12d5,Nias,SUMATERA UTARA,1201,Nias,Sumatera Utara,nama persis
+es-5e8e333788,Mandailing Natal,SUMATERA UTARA,1202,Mandailing Natal,Sumatera Utara,nama persis
+es-08096bab24,Tapanuli Selatan,SUMATERA UTARA,1203,Tapanuli Selatan,Sumatera Utara,nama persis
+es-0912ffa257,Tapanuli Tengah,SUMATERA UTARA,1204,Tapanuli Tengah,Sumatera Utara,nama persis
+es-206e514485,Tapanuli Utara,SUMATERA UTARA,1205,Tapanuli Utara,Sumatera Utara,nama persis
+es-f0edd3e3b6,Toba Samosir,SUMATERA UTARA,1206,Toba Samosir,Sumatera Utara,nama persis
+es-f71bcfa3db,Labuhan Batu,SUMATERA UTARA,1207,Labuhan Batu,Sumatera Utara,nama persis
+es-bd1fefda6c,Asahan,SUMATERA UTARA,1208,Asahan,Sumatera Utara,nama persis
+es-0eed766ecd,Simalungun,SUMATERA UTARA,1209,Simalungun,Sumatera Utara,nama persis
+es-8c7baeca8c,Dairi,SUMATERA UTARA,1210,Dairi,Sumatera Utara,nama persis
+es-f0b0944c3b,Karo,SUMATERA UTARA,1211,Karo,Sumatera Utara,nama persis
+es-7299191027,Deli Serdang,SUMATERA UTARA,1212,Deli Serdang,Sumatera Utara,nama persis
+es-c7a666bb8d,Langkat,SUMATERA UTARA,1213,Langkat,Sumatera Utara,nama persis
+es-302f38f88f,Nias Selatan,SUMATERA UTARA,1214,Nias Selatan,Sumatera Utara,nama persis
+es-2269a81f69,Humbang Hasundutan,SUMATERA UTARA,1215,Humbang Hasundutan,Sumatera Utara,nama persis
+es-0a3226525e,Pakpak Bharat,SUMATERA UTARA,1216,Pakpak Bharat,Sumatera Utara,nama persis
+es-fe061ddc5a,Samosir,SUMATERA UTARA,1217,Samosir,Sumatera Utara,nama persis
+es-361b98c0a6,Serdang Bedagai,SUMATERA UTARA,1218,Serdang Bedagai,Sumatera Utara,nama persis
+es-a147bf227b,Batu Bara,SUMATERA UTARA,1219,Batu Bara,Sumatera Utara,nama persis
+es-ed12c0e6c1,Padang Lawas Utara,SUMATERA UTARA,1220,Padang Lawas Utara,Sumatera Utara,nama persis
+es-25ed4873c0,Padang Lawas,SUMATERA UTARA,1221,Padang Lawas,Sumatera Utara,nama persis
+es-319e1c880e,Labuhan Batu Selatan,SUMATERA UTARA,1222,Labuhan Batu Selatan,Sumatera Utara,nama persis
+es-34504cb4be,Labuhan Batu Utara,SUMATERA UTARA,1223,Labuhan Batu Utara,Sumatera Utara,nama persis
+es-66cbfe86d4,Nias Utara,SUMATERA UTARA,1224,Nias Utara,Sumatera Utara,nama persis
+es-8355114590,Nias Barat,SUMATERA UTARA,1225,Nias Barat,Sumatera Utara,nama persis
+es-6c8bc64c32,Kota Sibolga,SUMATERA UTARA,1271,Kota Sibolga,Sumatera Utara,nama persis
+es-e2240b9c7b,Kota Tanjung Balai,SUMATERA UTARA,1272,Kota Tanjung Balai,Sumatera Utara,nama persis
+es-20fe190f73,Kota Pematang Siantar,SUMATERA UTARA,1273,Kota Pematang Siantar,Sumatera Utara,nama persis
+es-c44edd3ed4,Kota Tebing Tinggi,SUMATERA UTARA,1274,Kota Tebing Tinggi,Sumatera Utara,nama persis
+es-4fa4cf51cd,Kota Medan,SUMATERA UTARA,1275,Kota Medan,Sumatera Utara,nama persis
+es-b240f6b3df,Kota Binjai,SUMATERA UTARA,1276,Kota Binjai,Sumatera Utara,nama persis
+es-dd01db90d0,Kota Padangsidimpuan,SUMATERA UTARA,1277,Kota Padangsidimpuan,Sumatera Utara,nama persis
+es-e77516672a,Kota Gunungsitoli,SUMATERA UTARA,1278,Kota Gunungsitoli,Sumatera Utara,nama persis
+es-f0bc9f1999,Kepulauan Mentawai,SUMATERA BARAT,1301,Kepulauan Mentawai,Sumatera Barat,nama persis
+es-8729d60ca4,Pesisir Selatan,SUMATERA BARAT,1302,Pesisir Selatan,Sumatera Barat,nama persis
+es-394b21f537,Solok,SUMATERA BARAT,1303,Solok,Sumatera Barat,nama persis
+es-b74d063694,Sijunjung,SUMATERA BARAT,1304,Sijunjung,Sumatera Barat,nama persis
+es-943f2da3fc,Tanah Datar,SUMATERA BARAT,1305,Tanah Datar,Sumatera Barat,nama persis
+es-fd353996fb,Padang Pariaman,SUMATERA BARAT,1306,Padang Pariaman,Sumatera Barat,nama persis
+es-1454a76169,Agam,SUMATERA BARAT,1307,Agam,Sumatera Barat,nama persis
+es-d9347656bf,Lima Puluh Kota,SUMATERA BARAT,1308,Lima Puluh Kota,Sumatera Barat,nama persis
+es-25df70a1a1,Pasaman,SUMATERA BARAT,1309,Pasaman,Sumatera Barat,nama persis
+es-bd2efdcfb7,Solok Selatan,SUMATERA BARAT,1310,Solok Selatan,Sumatera Barat,nama persis
+es-e48e0768b4,Dharmasraya,SUMATERA BARAT,1311,Dharmasraya,Sumatera Barat,nama persis
+es-2e0b37391e,Pasaman Barat,SUMATERA BARAT,1312,Pasaman Barat,Sumatera Barat,nama persis
+es-404f4de63c,Kota Padang,SUMATERA BARAT,1371,Kota Padang,Sumatera Barat,nama persis
+es-366e3ca82f,Kota Solok,SUMATERA BARAT,1372,Kota Solok,Sumatera Barat,nama persis
+es-450d9dc447,Kota Sawah Lunto,SUMATERA BARAT,1373,Kota Sawah Lunto,Sumatera Barat,nama persis
+es-73b55e1725,Kota Padang Panjang,SUMATERA BARAT,1374,Kota Padang Panjang,Sumatera Barat,nama persis
+es-574e6db69f,Kota Bukittinggi,SUMATERA BARAT,1375,Kota Bukittinggi,Sumatera Barat,nama persis
+es-e7f0c15a23,Kota Payakumbuh,SUMATERA BARAT,1376,Kota Payakumbuh,Sumatera Barat,nama persis
+es-8c98bd564c,Kota Pariaman,SUMATERA BARAT,1377,Kota Pariaman,Sumatera Barat,nama persis
+es-3553dbe284,Kuantan Singingi,RIAU,1401,Kuantan Singingi,Riau,nama persis
+es-a23db0badc,Indragiri Hulu,RIAU,1402,Indragiri Hulu,Riau,nama persis
+es-9afb90abbc,Indragiri Hilir,RIAU,1403,Indragiri Hilir,Riau,nama persis
+es-03a31098da,Pelalawan,RIAU,1404,Pelalawan,Riau,nama persis
+es-a75a422fc6,Siak,RIAU,1405,Siak,Riau,nama persis
+es-13065cb3a7,Kampar,RIAU,1406,Kampar,Riau,nama persis
+es-9c64dc878d,Rokan Hulu,RIAU,1407,Rokan Hulu,Riau,nama persis
+es-a285ccae69,Bengkalis,RIAU,1408,Bengkalis,Riau,nama persis
+es-009362c05c,Rokan Hilir,RIAU,1409,Rokan Hilir,Riau,nama persis
+es-54bb7be85d,Kepulauan Meranti,RIAU,1410,Kepulauan Meranti,Riau,nama persis
+es-d1c301bbf4,Kota Pekanbaru,RIAU,1471,Kota Pekanbaru,Riau,nama persis
+es-77bc203181,Kota Dumai,RIAU,1473,Kota Dumai,Riau,nama persis
+es-ae8c834fa3,Kerinci,JAMBI,1501,Kerinci,Jambi,nama persis
+es-3a4957ec94,Merangin,JAMBI,1502,Merangin,Jambi,nama persis
+es-38fe9f88b3,Sarolangun,JAMBI,1503,Sarolangun,Jambi,nama persis
+es-f68f40e841,Batang Hari,JAMBI,1504,Batang Hari,Jambi,nama persis
+es-a1fdd2e804,Muaro Jambi,JAMBI,1505,Muaro Jambi,Jambi,nama persis
+es-319f3db515,Tanjung Jabung Timur,JAMBI,1506,Tanjung Jabung Timur,Jambi,nama persis
+es-36644aed85,Tanjung Jabung Barat,JAMBI,1507,Tanjung Jabung Barat,Jambi,nama persis
+es-26558774e5,Tebo,JAMBI,1508,Tebo,Jambi,nama persis
+es-7cd5519498,Bungo,JAMBI,1509,Bungo,Jambi,nama persis
+es-c72e20ae2d,Kota Jambi,JAMBI,1571,Kota Jambi,Jambi,nama persis
+es-1c7b8943ba,Kota Sungai Penuh,JAMBI,1572,Kota Sungai Penuh,Jambi,nama persis
+es-3c3ece10d0,Ogan Komering Ulu,SUMATERA SELATAN,1601,Ogan Komering Ulu,Sumatera Selatan,nama persis
+es-4b776247c2,Ogan Komering Ilir,SUMATERA SELATAN,1602,Ogan Komering Ilir,Sumatera Selatan,nama persis
+es-c8095deeb0,Muara Enim,SUMATERA SELATAN,1603,Muara Enim,Sumatera Selatan,nama persis
+es-595ff7e972,Lahat,SUMATERA SELATAN,1604,Lahat,Sumatera Selatan,nama persis
+es-0792a84ad1,Musi Rawas,SUMATERA SELATAN,1605,Musi Rawas,Sumatera Selatan,nama persis
+es-e635e49015,Musi Banyuasin,SUMATERA SELATAN,1606,Musi Banyuasin,Sumatera Selatan,nama persis
+es-5cde3cf746,Banyu Asin,SUMATERA SELATAN,1607,Banyu Asin,Sumatera Selatan,nama persis
+es-a6d5822cf4,Ogan Komering Ulu Selatan,SUMATERA SELATAN,1608,Ogan Komering Ulu Selatan,Sumatera Selatan,nama persis
+es-758948fae1,Ogan Komering Ulu Timur,SUMATERA SELATAN,1609,Ogan Komering Ulu Timur,Sumatera Selatan,nama persis
+es-37010ea28b,Ogan Ilir,SUMATERA SELATAN,1610,Ogan Ilir,Sumatera Selatan,nama persis
+es-f5652b7f3a,Empat Lawang,SUMATERA SELATAN,1611,Empat Lawang,Sumatera Selatan,nama persis
+es-79c71435a2,Penukal Abab Lematang Ilir,SUMATERA SELATAN,1612,Penukal Abab Lematang Ilir,Sumatera Selatan,nama persis
+es-fb48c99924,Musi Rawas Utara,SUMATERA SELATAN,1613,Musi Rawas Utara,Sumatera Selatan,nama persis
+es-4a9db8cddb,Kota Palembang,SUMATERA SELATAN,1671,Kota Palembang,Sumatera Selatan,nama persis
+es-7d33e792c1,Kota Prabumulih,SUMATERA SELATAN,1672,Kota Prabumulih,Sumatera Selatan,nama persis
+es-5f0e8b272a,Kota Pagar Alam,SUMATERA SELATAN,1673,Kota Pagar Alam,Sumatera Selatan,nama persis
+es-1cbf2652af,Kota Lubuklinggau,SUMATERA SELATAN,1674,Kota Lubuklinggau,Sumatera Selatan,nama persis
+es-626e2dd055,Bengkulu Selatan,BENGKULU,1701,Bengkulu Selatan,Bengkulu,nama persis
+es-e23bf2b07e,Rejang Lebong,BENGKULU,1702,Rejang Lebong,Bengkulu,nama persis
+es-18b5b6450e,Bengkulu Utara,BENGKULU,1703,Bengkulu Utara,Bengkulu,nama persis
+es-9f5d412825,Kaur,BENGKULU,1704,Kaur,Bengkulu,nama persis
+es-880f4301f7,Seluma,BENGKULU,1705,Seluma,Bengkulu,nama persis
+es-607a8f9e37,Mukomuko,BENGKULU,1706,Mukomuko,Bengkulu,nama persis
+es-3bc2e3637b,Lebong,BENGKULU,1707,Lebong,Bengkulu,nama persis
+es-fb600b47a6,Kepahiang,BENGKULU,1708,Kepahiang,Bengkulu,nama persis
+es-7cf09e8761,Bengkulu Tengah,BENGKULU,1709,Bengkulu Tengah,Bengkulu,nama persis
+es-e546942da5,Kota Bengkulu,BENGKULU,1771,Kota Bengkulu,Bengkulu,nama persis
+es-b8f859c6a7,Lampung Barat,LAMPUNG,1801,Lampung Barat,Lampung,nama persis
+es-560510eb30,Tanggamus,LAMPUNG,1802,Tanggamus,Lampung,nama persis
+es-3c3c4cb7a8,Lampung Selatan,LAMPUNG,1803,Lampung Selatan,Lampung,nama persis
+es-22bd223cda,Lampung Timur,LAMPUNG,1804,Lampung Timur,Lampung,nama persis
+es-c7b376b4a3,Lampung Tengah,LAMPUNG,1805,Lampung Tengah,Lampung,nama persis
+es-0e79a34b59,Lampung Utara,LAMPUNG,1806,Lampung Utara,Lampung,nama persis
+es-1deb71341e,Way Kanan,LAMPUNG,1807,Way Kanan,Lampung,nama persis
+es-b4188afde8,Tulangbawang,LAMPUNG,1808,Tulangbawang,Lampung,nama persis
+es-da24911a18,Pesawaran,LAMPUNG,1809,Pesawaran,Lampung,nama persis
+es-d81bb35ccc,Pringsewu,LAMPUNG,1810,Pringsewu,Lampung,nama persis
+es-6dc3a2b1cf,Mesuji,LAMPUNG,1811,Mesuji,Lampung,nama persis
+es-d630826d9e,Tulang Bawang Barat,LAMPUNG,1812,Tulang Bawang Barat,Lampung,nama persis
+es-c2d17f4d64,Pesisir Barat,LAMPUNG,1813,Pesisir Barat,Lampung,nama persis
+es-ab0d2b82d8,Kota Bandar Lampung,LAMPUNG,1871,Kota Bandar Lampung,Lampung,nama persis
+es-eed2138456,Kota Metro,LAMPUNG,1872,Kota Metro,Lampung,nama persis
+es-555c53d747,Bangka,KEP. BANGKA BELITUNG,1901,Bangka,Bangka Belitung,nama persis
+es-42c6d8f897,Belitung,KEP. BANGKA BELITUNG,1902,Belitung,Bangka Belitung,nama persis
+es-2b87e1e6a2,Bangka Barat,KEP. BANGKA BELITUNG,1903,Bangka Barat,Bangka Belitung,nama persis
+es-e7865f08e4,Bangka Tengah,KEP. BANGKA BELITUNG,1904,Bangka Tengah,Bangka Belitung,nama persis
+es-d973a9a9bb,Bangka Selatan,KEP. BANGKA BELITUNG,1905,Bangka Selatan,Bangka Belitung,nama persis
+es-f57164a4e7,Belitung Timur,KEP. BANGKA BELITUNG,1906,Belitung Timur,Bangka Belitung,nama persis
+es-f571581e26,Kota Pangkal Pinang,KEP. BANGKA BELITUNG,1971,Kota Pangkal Pinang,Bangka Belitung,nama persis
+es-1316108bb2,Karimun,KEPULAUAN RIAU,2101,Karimun,Kepulauan Riau,nama persis
+es-79aaeeb6f2,Bintan,KEPULAUAN RIAU,2102,Bintan,Kepulauan Riau,nama persis
+es-636f40671e,Natuna,KEPULAUAN RIAU,2103,Natuna,Kepulauan Riau,nama persis
+es-65f282d72c,Lingga,KEPULAUAN RIAU,2104,Lingga,Kepulauan Riau,nama persis
+es-612a12fa9f,Kepulauan Anambas,KEPULAUAN RIAU,2105,Kepulauan Anambas,Kepulauan Riau,nama persis
+es-e9decc44ed,Kota Batam,KEPULAUAN RIAU,2171,Kota Batam,Kepulauan Riau,nama persis
+es-2cfa9790c5,Kota Tanjung Pinang,KEPULAUAN RIAU,2172,Kota Tanjung Pinang,Kepulauan Riau,nama persis
+es-9b3e3d92e2,Kepulauan Seribu,DKI JAKARTA,3101,Kepulauan Seribu,Jakarta,nama persis
+es-d2b0880584,Kota Jakarta Selatan,DKI JAKARTA,3171,Kota Jakarta Selatan,Jakarta,nama persis
+es-181e5ac797,Kota Jakarta Timur,DKI JAKARTA,3172,Kota Jakarta Timur,Jakarta,nama persis
+es-b24588fbce,Kota Jakarta Pusat,DKI JAKARTA,3173,Kota Jakarta Pusat,Jakarta,nama persis
+es-44425fc290,Kota Jakarta Barat,DKI JAKARTA,3174,Kota Jakarta Barat,Jakarta,nama persis
+es-2d0df4d549,Kota Jakarta Utara,DKI JAKARTA,3175,Kota Jakarta Utara,Jakarta,nama persis
+es-ef8cca4ccf,Bogor,JAWA BARAT,3201,Bogor,Jawa Barat,nama persis
+es-236c3c6d8f,Sukabumi,JAWA BARAT,3202,Sukabumi,Jawa Barat,nama persis
+es-9dd991a0b2,Cianjur,JAWA BARAT,3203,Cianjur,Jawa Barat,nama persis
+es-ffa440c9bf,Bandung,JAWA BARAT,3204,Bandung,Jawa Barat,nama persis
+es-de81ff15ff,Garut,JAWA BARAT,3205,Garut,Jawa Barat,nama persis
+es-f01489b542,Tasikmalaya,JAWA BARAT,3206,Tasikmalaya,Jawa Barat,nama persis
+es-b75012348d,Ciamis,JAWA BARAT,3207,Ciamis,Jawa Barat,nama persis
+es-f7144a531d,Kuningan,JAWA BARAT,3208,Kuningan,Jawa Barat,nama persis
+es-fd920fecb2,Cirebon,JAWA BARAT,3209,Cirebon,Jawa Barat,nama persis
+es-3928968485,Majalengka,JAWA BARAT,3210,Majalengka,Jawa Barat,nama persis
+es-e05acf22ea,Sumedang,JAWA BARAT,3211,Sumedang,Jawa Barat,nama persis
+es-5b7c06ec97,Indramayu,JAWA BARAT,3212,Indramayu,Jawa Barat,nama persis
+es-b2f6087c90,Subang,JAWA BARAT,3213,Subang,Jawa Barat,nama persis
+es-e4fd145021,Purwakarta,JAWA BARAT,3214,Purwakarta,Jawa Barat,nama persis
+es-33c8333fc4,Karawang,JAWA BARAT,3215,Karawang,Jawa Barat,nama persis
+es-a3487061bb,Bekasi,JAWA BARAT,3216,Bekasi,Jawa Barat,nama persis
+es-aa2bda04d5,Bandung Barat,JAWA BARAT,3217,Bandung Barat,Jawa Barat,nama persis
+es-a7057276be,Pangandaran,JAWA BARAT,3218,Pangandaran,Jawa Barat,nama persis
+es-b4e9c6c8d5,Kota Bogor,JAWA BARAT,3271,Kota Bogor,Jawa Barat,nama persis
+es-713951b342,Kota Sukabumi,JAWA BARAT,3272,Kota Sukabumi,Jawa Barat,nama persis
+es-26fd6f4e99,Kota Bandung,JAWA BARAT,3273,Kota Bandung,Jawa Barat,nama persis
+es-fce3a8a0c5,Kota Cirebon,JAWA BARAT,3274,Kota Cirebon,Jawa Barat,nama persis
+es-c2fe924cf7,Kota Bekasi,JAWA BARAT,3275,Kota Bekasi,Jawa Barat,nama persis
+es-6309e85e59,Kota Depok,JAWA BARAT,3276,Kota Depok,Jawa Barat,nama persis
+es-020b58df2e,Kota Cimahi,JAWA BARAT,3277,Kota Cimahi,Jawa Barat,nama persis
+es-c5cc7fbcdc,Kota Tasikmalaya,JAWA BARAT,3278,Kota Tasikmalaya,Jawa Barat,nama persis
+es-64a3a6a9d6,Kota Banjar,JAWA BARAT,3279,Kota Banjar,Jawa Barat,nama persis
+es-728db6b7e6,Cilacap,JAWA TENGAH,3301,Cilacap,Jawa Tengah,nama persis
+es-f038b14365,Banyumas,JAWA TENGAH,3302,Banyumas,Jawa Tengah,nama persis
+es-edcc10e610,Purbalingga,JAWA TENGAH,3303,Purbalingga,Jawa Tengah,nama persis
+es-4a0b5b7426,Banjarnegara,JAWA TENGAH,3304,Banjarnegara,Jawa Tengah,nama persis
+es-31710b5c87,Kebumen,JAWA TENGAH,3305,Kebumen,Jawa Tengah,nama persis
+es-2e4865d058,Purworejo,JAWA TENGAH,3306,Purworejo,Jawa Tengah,nama persis
+es-c49d79ade4,Wonosobo,JAWA TENGAH,3307,Wonosobo,Jawa Tengah,nama persis
+es-2fdd738ed1,Magelang,JAWA TENGAH,3308,Magelang,Jawa Tengah,nama persis
+es-5b64acdccd,Boyolali,JAWA TENGAH,3309,Boyolali,Jawa Tengah,nama persis
+es-7ea82587ca,Klaten,JAWA TENGAH,3310,Klaten,Jawa Tengah,nama persis
+es-4c06bd7688,Sukoharjo,JAWA TENGAH,3311,Sukoharjo,Jawa Tengah,nama persis
+es-c3b5439158,Wonogiri,JAWA TENGAH,3312,Wonogiri,Jawa Tengah,nama persis
+es-38190945f3,Karanganyar,JAWA TENGAH,3313,Karanganyar,Jawa Tengah,nama persis
+es-1c4e372756,Sragen,JAWA TENGAH,3314,Sragen,Jawa Tengah,nama persis
+es-4f8763bf84,Grobogan,JAWA TENGAH,3315,Grobogan,Jawa Tengah,nama persis
+es-684dc6299c,Blora,JAWA TENGAH,3316,Blora,Jawa Tengah,nama persis
+es-8cfcbb6d5c,Rembang,JAWA TENGAH,3317,Rembang,Jawa Tengah,nama persis
+es-2d1db4a3ef,Pati,JAWA TENGAH,3318,Pati,Jawa Tengah,nama persis
+es-8eb51cfe32,Kudus,JAWA TENGAH,3319,Kudus,Jawa Tengah,nama persis
+es-a73c05a02d,Jepara,JAWA TENGAH,3320,Jepara,Jawa Tengah,nama persis
+es-6796f26963,Demak,JAWA TENGAH,3321,Demak,Jawa Tengah,nama persis
+es-2a0b773aae,Semarang,JAWA TENGAH,3322,Semarang,Jawa Tengah,nama persis
+es-ec37c45960,Temanggung,JAWA TENGAH,3323,Temanggung,Jawa Tengah,nama persis
+es-a62aab9f95,Kendal,JAWA TENGAH,3324,Kendal,Jawa Tengah,nama persis
+es-ed7f0a10a3,Batang,JAWA TENGAH,3325,Batang,Jawa Tengah,nama persis
+es-6b23215756,Pekalongan,JAWA TENGAH,3326,Pekalongan,Jawa Tengah,nama persis
+es-2cccda455a,Pemalang,JAWA TENGAH,3327,Pemalang,Jawa Tengah,nama persis
+es-b4bf1feff5,Tegal,JAWA TENGAH,3328,Tegal,Jawa Tengah,nama persis
+es-63c90414b4,Brebes,JAWA TENGAH,3329,Brebes,Jawa Tengah,nama persis
+es-b49b620fc6,Kota Magelang,JAWA TENGAH,3371,Kota Magelang,Jawa Tengah,nama persis
+es-93110f4027,Kota Surakarta,JAWA TENGAH,3372,Kota Surakarta,Jawa Tengah,nama persis
+es-38b80508f7,Kota Salatiga,JAWA TENGAH,3373,Kota Salatiga,Jawa Tengah,nama persis
+es-bcb83e9eec,Kota Semarang,JAWA TENGAH,3374,Kota Semarang,Jawa Tengah,nama persis
+es-ced88cd9f0,Kota Pekalongan,JAWA TENGAH,3375,Kota Pekalongan,Jawa Tengah,nama persis
+es-24f9442406,Kota Tegal,JAWA TENGAH,3376,Kota Tegal,Jawa Tengah,nama persis
+es-f00c270b73,Kulon Progo,D I YOGYAKARTA,3401,Kulon Progo,Jawa Timur,provinsi dipetakan
+es-bb3d3c1512,Bantul,D I YOGYAKARTA,3402,Bantul,Jawa Timur,provinsi dipetakan
+es-f6cd1b3800,Gunung Kidul,D I YOGYAKARTA,3403,Gunung Kidul,Jawa Timur,provinsi dipetakan
+es-a3a8ad6582,Sleman,D I YOGYAKARTA,3404,Sleman,Jawa Timur,provinsi dipetakan
+es-3008bff90b,Kota Yogyakarta,D I YOGYAKARTA,3471,Kota Yogyakarta,Jawa Timur,provinsi dipetakan
+es-2f06b458de,Pacitan,JAWA TIMUR,3501,Pacitan,Jawa Timur,nama persis
+es-45d2fc41d5,Ponorogo,JAWA TIMUR,3502,Ponorogo,Jawa Timur,nama persis
+es-7013a476d9,Trenggalek,JAWA TIMUR,3503,Trenggalek,Jawa Timur,nama persis
+es-0a2b7677fa,Tulungagung,JAWA TIMUR,3504,Tulungagung,Jawa Timur,nama persis
+es-f7ca33f677,Blitar,JAWA TIMUR,3505,Blitar,Jawa Timur,nama persis
+es-8a7d81e6f7,Kediri,JAWA TIMUR,3506,Kediri,Jawa Timur,nama persis
+es-f2d2aaf40d,Malang,JAWA TIMUR,3507,Malang,Jawa Timur,nama persis
+es-b17bdbb60d,Lumajang,JAWA TIMUR,3508,Lumajang,Jawa Timur,nama persis
+es-df50d9776c,Jember,JAWA TIMUR,3509,Jember,Jawa Timur,nama persis
+es-bcf92ffe14,Banyuwangi,JAWA TIMUR,3510,Banyuwangi,Jawa Timur,nama persis
+es-f0409318db,Bondowoso,JAWA TIMUR,3511,Bondowoso,Jawa Timur,nama persis
+es-ee6e12383a,Situbondo,JAWA TIMUR,3512,Situbondo,Jawa Timur,nama persis
+es-baa28a383b,Probolinggo,JAWA TIMUR,3513,Probolinggo,Jawa Timur,nama persis
+es-4fd8f122d9,Pasuruan,JAWA TIMUR,3514,Pasuruan,Jawa Timur,nama persis
+es-95f1717910,Sidoarjo,JAWA TIMUR,3515,Sidoarjo,Jawa Timur,nama persis
+es-8a37d60d23,Mojokerto,JAWA TIMUR,3516,Mojokerto,Jawa Timur,nama persis
+es-ecf40342d4,Jombang,JAWA TIMUR,3517,Jombang,Jawa Timur,nama persis
+es-18a6cd8ba2,Nganjuk,JAWA TIMUR,3518,Nganjuk,Jawa Timur,nama persis
+es-14a1dade99,Madiun,JAWA TIMUR,3519,Madiun,Jawa Timur,nama persis
+es-93369cec39,Magetan,JAWA TIMUR,3520,Magetan,Jawa Timur,nama persis
+es-618d472a59,Ngawi,JAWA TIMUR,3521,Ngawi,Jawa Timur,nama persis
+es-8e8dbb1fb5,Bojonegoro,JAWA TIMUR,3522,Bojonegoro,Jawa Timur,nama persis
+es-2f3a613931,Tuban,JAWA TIMUR,3523,Tuban,Jawa Timur,nama persis
+es-d4bd80b037,Lamongan,JAWA TIMUR,3524,Lamongan,Jawa Timur,nama persis
+es-48f4fb7eb1,Gresik,JAWA TIMUR,3525,Gresik,Jawa Timur,nama persis
+es-37fe7a757b,Bangkalan,JAWA TIMUR,3526,Bangkalan,Jawa Timur,nama persis
+es-dd1af806a4,Sampang,JAWA TIMUR,3527,Sampang,Jawa Timur,nama persis
+es-deb4d3d596,Pamekasan,JAWA TIMUR,3528,Pamekasan,Jawa Timur,nama persis
+es-f7d2aa5ba0,Sumenep,JAWA TIMUR,3529,Sumenep,Jawa Timur,nama persis
+es-b065f5cc7e,Kota Kediri,JAWA TIMUR,3571,Kota Kediri,Jawa Timur,nama persis
+es-41650c5a41,Kota Blitar,JAWA TIMUR,3572,Kota Blitar,Jawa Timur,nama persis
+es-66c99eaba1,Kota Malang,JAWA TIMUR,3573,Kota Malang,Jawa Timur,nama persis
+es-7f206ad554,Kota Probolinggo,JAWA TIMUR,3574,Kota Probolinggo,Jawa Timur,nama persis
+es-1799e87bfb,Kota Pasuruan,JAWA TIMUR,3575,Kota Pasuruan,Jawa Timur,nama persis
+es-ce7fe9d79b,Kota Mojokerto,JAWA TIMUR,3576,Kota Mojokerto,Jawa Timur,nama persis
+es-be76d3a110,Kota Madiun,JAWA TIMUR,3577,Kota Madiun,Jawa Timur,nama persis
+es-8ed63bf13d,Kota Surabaya,JAWA TIMUR,3578,Kota Surabaya,Jawa Timur,nama persis
+es-562aeb9a4c,Kota Batu,JAWA TIMUR,3579,Kota Batu,Jawa Timur,nama persis
+es-ae7dbc0239,Pandeglang,BANTEN,3601,Pandeglang,Banten,nama persis
+es-0f7459fab2,Lebak,BANTEN,3602,Lebak,Banten,nama persis
+es-427f694b76,Tangerang,BANTEN,3603,Tangerang,Banten,nama persis
+es-43ea34fe39,Serang,BANTEN,3604,Serang,Banten,nama persis
+es-c9d3226060,Kota Tangerang,BANTEN,3671,Kota Tangerang,Banten,nama persis
+es-5e05dc78fd,Kota Cilegon,BANTEN,3672,Kota Cilegon,Banten,nama persis
+es-f6a0bc59f8,Kota Serang,BANTEN,3673,Kota Serang,Banten,nama persis
+es-22dc3e991a,Kota Tangerang Selatan,BANTEN,3674,Kota Tangerang Selatan,Banten,nama persis
+es-9dae9eedbc,Jembrana,BALI,5101,Jembrana,Bali,nama persis
+es-5148760656,Tabanan,BALI,5102,Tabanan,Bali,nama persis
+es-f8e5dd9e2c,Badung,BALI,5103,Badung,Bali,nama persis
+es-d584892fe4,Gianyar,BALI,5104,Gianyar,Bali,nama persis
+es-b3fffe72f8,Klungkung,BALI,5105,Klungkung,Bali,nama persis
+es-3975bd8752,Bangli,BALI,5106,Bangli,Bali,nama persis
+es-102dd6d164,Karangasem,BALI,5107,Karang Asem,Bali,nama persis
+es-7768bfcb69,Buleleng,BALI,5108,Buleleng,Bali,nama persis
+es-8593a0873e,Kota Denpasar,BALI,5171,Kota Denpasar,Bali,nama persis
+es-aaeece556f,Lombok Barat,NUSA TENGGARA BARAT,5201,Lombok Barat,NTB,nama persis
+es-5adcfa6fcd,Lombok Tengah,NUSA TENGGARA BARAT,5202,Lombok Tengah,NTB,nama persis
+es-2365d4fe26,Lombok Timur,NUSA TENGGARA BARAT,5203,Lombok Timur,NTB,nama persis
+es-30d829dc6b,Sumbawa,NUSA TENGGARA BARAT,5204,Sumbawa,NTB,nama persis
+es-81be68e39e,Dompu,NUSA TENGGARA BARAT,5205,Dompu,NTB,nama persis
+es-0200074550,Bima,NUSA TENGGARA BARAT,5206,Bima,NTB,nama persis
+es-ac0831b248,Sumbawa Barat,NUSA TENGGARA BARAT,5207,Sumbawa Barat,NTB,nama persis
+es-178db90489,Lombok Utara,NUSA TENGGARA BARAT,5208,Lombok Utara,NTB,nama persis
+es-2bdc9ac289,Kota Mataram,NUSA TENGGARA BARAT,5271,Kota Mataram,NTB,nama persis
+es-ac5b82a6eb,Kota Bima,NUSA TENGGARA BARAT,5272,Kota Bima,NTB,nama persis
+es-dee8d68e2b,Sumba Barat,NUSA TENGGARA TIMUR,5301,Sumba Barat,NTT,nama persis
+es-457bb15d65,Sumba Timur,NUSA TENGGARA TIMUR,5302,Sumba Timur,NTT,nama persis
+es-80445b353e,Kupang,NUSA TENGGARA TIMUR,5303,Kupang,NTT,nama persis
+es-9252f4f5eb,Timor Tengah Selatan,NUSA TENGGARA TIMUR,5304,Timor Tengah Selatan,NTT,nama persis
+es-e995bd43a1,Timor Tengah Utara,NUSA TENGGARA TIMUR,5305,Timor Tengah Utara,NTT,nama persis
+es-18f6c9072c,Belu,NUSA TENGGARA TIMUR,5306,Belu,NTT,nama persis
+es-3e0755581b,Alor,NUSA TENGGARA TIMUR,5307,Alor,NTT,nama persis
+es-a5b75610aa,Lembata,NUSA TENGGARA TIMUR,5308,Lembata,NTT,nama persis
+es-941eb23986,Flores Timur,NUSA TENGGARA TIMUR,5309,Flores Timur,NTT,nama persis
+es-4f21cbc50e,Sikka,NUSA TENGGARA TIMUR,5310,Sikka,NTT,nama persis
+es-cf9c297d23,Ende,NUSA TENGGARA TIMUR,5311,Ende,NTT,nama persis
+es-887fa43a29,Ngada,NUSA TENGGARA TIMUR,5312,Ngada,NTT,nama persis
+es-fe35b3f27a,Manggarai,NUSA TENGGARA TIMUR,5313,Manggarai,NTT,nama persis
+es-2f95159885,Rote Ndao,NUSA TENGGARA TIMUR,5314,Rote Ndao,NTT,nama persis
+es-cdbd207eba,Manggarai Barat,NUSA TENGGARA TIMUR,5315,Manggarai Barat,NTT,nama persis
+es-a9dab69e63,Sumba Tengah,NUSA TENGGARA TIMUR,5316,Sumba Tengah,NTT,nama persis
+es-99201e2559,Sumba Barat Daya,NUSA TENGGARA TIMUR,5317,Sumba Barat Daya,NTT,nama persis
+es-898e6e201f,Nagekeo,NUSA TENGGARA TIMUR,5318,Nagekeo,NTT,nama persis
+es-6ee2b761ce,Manggarai Timur,NUSA TENGGARA TIMUR,5319,Manggarai Timur,NTT,nama persis
+es-50865cc07b,Sabu Raijua,NUSA TENGGARA TIMUR,5320,Sabu Raijua,NTT,nama persis
+es-1b057988cf,Malaka,NUSA TENGGARA TIMUR,5321,Malaka,NTT,nama persis
+es-1cf381d0b2,Kota Kupang,NUSA TENGGARA TIMUR,5371,Kota Kupang,NTT,nama persis
+es-a13b6ed5a0,Sambas,KALIMANTAN BARAT,6101,Sambas,Kalimantan Barat,nama persis
+es-10551e74ee,Bengkayang,KALIMANTAN BARAT,6102,Bengkayang,Kalimantan Barat,nama persis
+es-2ae60f6c96,Landak,KALIMANTAN BARAT,6103,Landak,Kalimantan Barat,nama persis
+es-ade576447e,Mempawah,KALIMANTAN BARAT,6104,Pontianak,Kalimantan Barat,alias
+es-486ee27d51,Sanggau,KALIMANTAN BARAT,6105,Sanggau,Kalimantan Barat,nama persis
+es-3f1bbd099a,Ketapang,KALIMANTAN BARAT,6106,Ketapang,Kalimantan Barat,nama persis
+es-bb5586ff2a,Sintang,KALIMANTAN BARAT,6107,Sintang,Kalimantan Barat,nama persis
+es-599519b97c,Kapuas Hulu,KALIMANTAN BARAT,6108,Kapuas Hulu,Kalimantan Barat,nama persis
+es-2aeb966590,Sekadau,KALIMANTAN BARAT,6109,Sekadau,Kalimantan Barat,nama persis
+es-f9c38abf14,Melawi,KALIMANTAN BARAT,6110,Melawi,Kalimantan Barat,nama persis
+es-e58e62b09c,Kayong Utara,KALIMANTAN BARAT,6111,Kayong Utara,Kalimantan Barat,nama persis
+es-9b521b6973,Kubu Raya,KALIMANTAN BARAT,6112,Kubu Raya,Kalimantan Barat,nama persis
+es-600935405c,Kota Pontianak,KALIMANTAN BARAT,6171,Kota Pontianak,Kalimantan Barat,nama persis
+es-9978b8fefd,Kota Singkawang,KALIMANTAN BARAT,6172,Kota Singkawang,Kalimantan Barat,nama persis
+es-737b25c7f6,Kotawaringin Barat,KALIMANTAN TENGAH,6201,Kotawaringin Barat,Kalimantan Tengah,nama persis
+es-3935cfd187,Kotawaringin Timur,KALIMANTAN TENGAH,6202,Kotawaringin Timur,Kalimantan Tengah,nama persis
+es-a38906b013,Kapuas,KALIMANTAN TENGAH,6203,Kapuas,Kalimantan Tengah,nama persis
+es-a364bdf45b,Barito Selatan,KALIMANTAN TENGAH,6204,Barito Selatan,Kalimantan Tengah,nama persis
+es-43192a2f2f,Barito Utara,KALIMANTAN TENGAH,6205,Barito Utara,Kalimantan Tengah,nama persis
+es-ae128f091f,Sukamara,KALIMANTAN TENGAH,6206,Sukamara,Kalimantan Tengah,nama persis
+es-2736cc7fd0,Lamandau,KALIMANTAN TENGAH,6207,Lamandau,Kalimantan Tengah,nama persis
+es-a36fb6d4fb,Seruyan,KALIMANTAN TENGAH,6208,Seruyan,Kalimantan Tengah,nama persis
+es-5b9dbcf94b,Katingan,KALIMANTAN TENGAH,6209,Katingan,Kalimantan Tengah,nama persis
+es-fa02573ae2,Pulang Pisau,KALIMANTAN TENGAH,6210,Pulang Pisau,Kalimantan Tengah,nama persis
+es-e8b0401d27,Gunung Mas,KALIMANTAN TENGAH,6211,Gunung Mas,Kalimantan Tengah,nama persis
+es-7d6ca735a2,Barito Timur,KALIMANTAN TENGAH,6212,Barito Timur,Kalimantan Tengah,nama persis
+es-d11d1aaa92,Murung Raya,KALIMANTAN TENGAH,6213,Murung Raya,Kalimantan Tengah,nama persis
+es-d32c6b2453,Kota Palangka Raya,KALIMANTAN TENGAH,6271,Kota Palangka Raya,Kalimantan Tengah,nama persis
+es-36f9e2cb3a,Tanah Laut,KALIMANTAN SELATAN,6301,Tanah Laut,Kalimantan Selatan,nama persis
+es-3d8ed5ace7,Kota Baru,KALIMANTAN SELATAN,6302,Kota Baru,Kalimantan Selatan,nama persis
+es-971df811c6,Banjar,KALIMANTAN SELATAN,6303,Banjar,Kalimantan Selatan,nama persis
+es-fb18176e4f,Barito Kuala,KALIMANTAN SELATAN,6304,Barito Kuala,Kalimantan Selatan,nama persis
+es-d70bbbc329,Tapin,KALIMANTAN SELATAN,6305,Tapin,Kalimantan Selatan,nama persis
+es-785ed21596,Hulu Sungai Selatan,KALIMANTAN SELATAN,6306,Hulu Sungai Selatan,Kalimantan Selatan,nama persis
+es-5faeba2505,Hulu Sungai Tengah,KALIMANTAN SELATAN,6307,Hulu Sungai Tengah,Kalimantan Selatan,nama persis
+es-3f9cb08189,Hulu Sungai Utara,KALIMANTAN SELATAN,6308,Hulu Sungai Utara,Kalimantan Selatan,nama persis
+es-a8b7f4764b,Tabalong,KALIMANTAN SELATAN,6309,Tabalong,Kalimantan Selatan,nama persis
+es-c4ff25cb11,Tanah Bumbu,KALIMANTAN SELATAN,6310,Tanah Bumbu,Kalimantan Selatan,nama persis
+es-705f4cd702,Balangan,KALIMANTAN SELATAN,6311,Balangan,Kalimantan Selatan,nama persis
+es-ca4da7289e,Kota Banjarmasin,KALIMANTAN SELATAN,6371,Kota Banjarmasin,Kalimantan Selatan,nama persis
+es-ce92d5e53b,Kota Banjar Baru,KALIMANTAN SELATAN,6372,Kota Banjar Baru,Kalimantan Selatan,nama persis
+es-48443dc870,Paser,KALIMANTAN TIMUR,6401,Paser,Kalimantan Timur,nama persis
+es-b570ea7468,Kutai Barat,KALIMANTAN TIMUR,6402,Kutai Barat,Kalimantan Timur,nama persis
+es-fce841e296,Kutai Kartanegara,KALIMANTAN TIMUR,6403,Kutai Kartanegara,Kalimantan Timur,nama persis
+es-feb9e81135,Kutai Timur,KALIMANTAN TIMUR,6404,Kutai Timur,Kalimantan Timur,nama persis
+es-537f74ad7b,Berau,KALIMANTAN TIMUR,6405,Berau,Kalimantan Timur,nama persis
+es-2ef598dd08,Penajam Paser Utara,KALIMANTAN TIMUR,6409,Penajam Paser Utara,Kalimantan Timur,nama persis
+es-52a5052d5d,Mahakam Ulu,KALIMANTAN TIMUR,6411,Mahakam Hulu,Kalimantan Timur,alias
+es-5bf04d7293,Kota Balikpapan,KALIMANTAN TIMUR,6471,Kota Balikpapan,Kalimantan Timur,nama persis
+es-b2a080dc63,Kota Samarinda,KALIMANTAN TIMUR,6472,Kota Samarinda,Kalimantan Timur,nama persis
+es-0b929f2b4c,Kota Bontang,KALIMANTAN TIMUR,6474,Kota Bontang,Kalimantan Timur,nama persis
+es-21816cae59,Malinau,KALIMANTAN UTARA,6501,Malinau,Kalimantan Utara,nama persis
+es-6fa958f682,Bulungan,KALIMANTAN UTARA,6502,Bulungan,Kalimantan Utara,nama persis
+es-f61cb90312,Tana Tidung,KALIMANTAN UTARA,6503,Tana Tidung,Kalimantan Utara,nama persis
+es-70ea33efb6,Nunukan,KALIMANTAN UTARA,6504,Nunukan,Kalimantan Utara,nama persis
+es-de96bdaea1,Kota Tarakan,KALIMANTAN UTARA,6571,Kota Tarakan,Kalimantan Utara,nama persis
+es-c55df5c16e,Bolaang Mongondow,SULAWESI UTARA,7101,Bolaang Mongondow,Sulawesi Utara,nama persis
+es-f5f7e26d17,Minahasa,SULAWESI UTARA,7102,Minahasa,Sulawesi Utara,nama persis
+es-64977a8d72,Kepulauan Sangihe,SULAWESI UTARA,7103,Kepulauan Sangihe,Sulawesi Utara,nama persis
+es-b3ed1feb97,Kepulauan Talaud,SULAWESI UTARA,7104,Kepulauan Talaud,Sulawesi Utara,nama persis
+es-97d47b48a7,Minahasa Selatan,SULAWESI UTARA,7105,Minahasa Selatan,Sulawesi Utara,nama persis
+es-0c7541aaaf,Minahasa Utara,SULAWESI UTARA,7106,Minahasa Utara,Sulawesi Utara,nama persis
+es-b5415f5976,Bolaang Mongondow Utara,SULAWESI UTARA,7107,Bolaang Mongondow Utara,Sulawesi Utara,nama persis
+es-33bb92d56f,Siau Tagulandang Biaro,SULAWESI UTARA,7108,Siau Tagulandang Biaro,Sulawesi Utara,nama persis
+es-a955f8c3ea,Minahasa Tenggara,SULAWESI UTARA,7109,Minahasa Tenggara,Sulawesi Utara,nama persis
+es-e3a8bfebba,Bolaang Mongondow Selatan,SULAWESI UTARA,7110,Bolaang Mongondow Selatan,Sulawesi Utara,nama persis
+es-1950dd5bc1,Bolaang Mongondow Timur,SULAWESI UTARA,7111,Bolaang Mongondow Timur,Sulawesi Utara,nama persis
+es-c4a50a7db9,Kota Manado,SULAWESI UTARA,7171,Kota Manado,Sulawesi Utara,nama persis
+es-e1b37fcaf7,Kota Bitung,SULAWESI UTARA,7172,Kota Bitung,Sulawesi Utara,nama persis
+es-a303812e62,Kota Tomohon,SULAWESI UTARA,7173,Kota Tomohon,Sulawesi Utara,nama persis
+es-63ed2056ba,Kota Kotamobagu,SULAWESI UTARA,7174,Kota Kotamobagu,Sulawesi Utara,nama persis
+es-3b9330b3bb,Banggai Kepulauan,SULAWESI TENGAH,7201,Banggai Kepulauan,Sulawesi Tengah,nama persis
+es-4c4ecc25ff,Banggai,SULAWESI TENGAH,7202,Banggai,Sulawesi Tengah,nama persis
+es-fc8fb6e069,Morowali,SULAWESI TENGAH,7203,Morowali,Sulawesi Tengah,nama persis
+es-c9e591cc4f,Poso,SULAWESI TENGAH,7204,Poso,Sulawesi Tengah,nama persis
+es-13441e3013,Donggala,SULAWESI TENGAH,7205,Donggala,Sulawesi Tengah,nama persis
+es-47b6e44230,Toli-Toli,SULAWESI TENGAH,7206,ToliToli,Sulawesi Tengah,alias
+es-9329e16142,Buol,SULAWESI TENGAH,7207,Buol,Sulawesi Tengah,nama persis
+es-4bfd48bbed,Parigi Moutong,SULAWESI TENGAH,7208,Parigi Moutong,Sulawesi Tengah,nama persis
+es-34abcbcf97,Tojo Una-Una,SULAWESI TENGAH,7209,Tojo UnaUna,Sulawesi Tengah,alias
+es-c23680b5a4,Sigi,SULAWESI TENGAH,7210,Sigi,Sulawesi Tengah,nama persis
+es-b98a17c88b,Banggai Laut,SULAWESI TENGAH,7211,Banggai Laut,Sulawesi Tengah,nama persis
+es-dc1ed0cf3d,Morowali Utara,SULAWESI TENGAH,7212,Morowali Utara,Sulawesi Tengah,nama persis
+es-80658d152e,Kota Palu,SULAWESI TENGAH,7271,Kota Palu,Sulawesi Tengah,nama persis
+es-9fb4cf06ee,Kepulauan Selayar,SULAWESI SELATAN,7301,Kepulauan Selayar,Sulawesi Selatan,nama persis
+es-cfd2d9b498,Bulukumba,SULAWESI SELATAN,7302,Bulukumba,Sulawesi Selatan,nama persis
+es-f8fcb8cda4,Bantaeng,SULAWESI SELATAN,7303,Bantaeng,Sulawesi Selatan,nama persis
+es-d96120b850,Jeneponto,SULAWESI SELATAN,7304,Jeneponto,Sulawesi Selatan,nama persis
+es-cb80201386,Takalar,SULAWESI SELATAN,7305,Takalar,Sulawesi Selatan,nama persis
+es-e4b568ba02,Gowa,SULAWESI SELATAN,7306,Gowa,Sulawesi Selatan,nama persis
+es-8c055bc30e,Sinjai,SULAWESI SELATAN,7307,Sinjai,Sulawesi Selatan,nama persis
+es-5da25efe57,Maros,SULAWESI SELATAN,7308,Maros,Sulawesi Selatan,nama persis
+es-ca107dfb1c,Pangkajene Dan Kepulauan,SULAWESI SELATAN,7309,Pangkajene Dan Kepulauan,Sulawesi Selatan,nama persis
+es-d72a9e4e54,Barru,SULAWESI SELATAN,7310,Barru,Sulawesi Selatan,nama persis
+es-de909e75cc,Bone,SULAWESI SELATAN,7311,Bone,Sulawesi Selatan,nama persis
+es-8d66480247,Soppeng,SULAWESI SELATAN,7312,Soppeng,Sulawesi Selatan,nama persis
+es-bbb027a4cf,Wajo,SULAWESI SELATAN,7313,Wajo,Sulawesi Selatan,nama persis
+es-930188b5ff,Sidenreng Rappang,SULAWESI SELATAN,7314,Sidenreng Rappang,Sulawesi Selatan,nama persis
+es-7e48858d24,Pinrang,SULAWESI SELATAN,7315,Pinrang,Sulawesi Selatan,nama persis
+es-30e83863bb,Enrekang,SULAWESI SELATAN,7316,Enrekang,Sulawesi Selatan,nama persis
+es-668d96f06c,Luwu,SULAWESI SELATAN,7317,Luwu,Sulawesi Selatan,nama persis
+es-517c1cb95b,Tana Toraja,SULAWESI SELATAN,7318,Tana Toraja,Sulawesi Selatan,nama persis
+es-cc445f15d4,Luwu Utara,SULAWESI SELATAN,7322,Luwu Utara,Sulawesi Selatan,nama persis
+es-7c333459ff,Luwu Timur,SULAWESI SELATAN,7325,Luwu Timur,Sulawesi Selatan,nama persis
+es-30b94dc800,Toraja Utara,SULAWESI SELATAN,7326,Toraja Utara,Sulawesi Selatan,nama persis
+es-b16956a286,Kota Makassar,SULAWESI SELATAN,7371,Kota Makassar,Sulawesi Selatan,nama persis
+es-1fd6203c0d,Kota Parepare,SULAWESI SELATAN,7372,Kota Parepare,Sulawesi Selatan,nama persis
+es-d2e1145afa,Kota Palopo,SULAWESI SELATAN,7373,Kota Palopo,Sulawesi Selatan,nama persis
+es-7258cd2838,Buton,SULAWESI TENGGARA,7401,Buton,Sulawesi Tenggara,nama persis
+es-012eb9962e,Muna,SULAWESI TENGGARA,7402,Muna,Sulawesi Tenggara,nama persis
+es-cdc042af3c,Konawe,SULAWESI TENGGARA,7403,Konawe,Sulawesi Tenggara,nama persis
+es-4dad5b312b,Kolaka,SULAWESI TENGGARA,7404,Kolaka,Sulawesi Tenggara,nama persis
+es-5107ba2079,Konawe Selatan,SULAWESI TENGGARA,7405,Konawe Selatan,Sulawesi Tenggara,nama persis
+es-adf050e18d,Bombana,SULAWESI TENGGARA,7406,Bombana,Sulawesi Tenggara,nama persis
+es-c3f5953b25,Wakatobi,SULAWESI TENGGARA,7407,Wakatobi,Sulawesi Tenggara,nama persis
+es-3952d48c38,Kolaka Utara,SULAWESI TENGGARA,7408,Kolaka Utara,Sulawesi Tenggara,nama persis
+es-76ff0d9a7d,Buton Utara,SULAWESI TENGGARA,7409,Buton Utara,Sulawesi Tenggara,nama persis
+es-a02b799961,Konawe Utara,SULAWESI TENGGARA,7410,Konawe Utara,Sulawesi Tenggara,nama persis
+es-767b97fb79,Kolaka Timur,SULAWESI TENGGARA,7411,Kolaka Timur,Sulawesi Tenggara,nama persis
+es-2a674d1b6d,Konawe Kepulauan,SULAWESI TENGGARA,7412,Konawe Kepulauan,Sulawesi Tenggara,nama persis
+es-e77521c489,Muna Barat,SULAWESI TENGGARA,7413,Muna Barat,Sulawesi Tenggara,nama persis
+es-f492b394be,Buton Tengah,SULAWESI TENGGARA,7414,Buton Tengah,Sulawesi Tenggara,nama persis
+es-29504aea9d,Buton Selatan,SULAWESI TENGGARA,7415,Buton Selatan,Sulawesi Tenggara,nama persis
+es-d8165b5f46,Kota Kendari,SULAWESI TENGGARA,7471,Kota Kendari,Sulawesi Tenggara,nama persis
+es-e1a63b9b9e,Kota Baubau,SULAWESI TENGGARA,7472,Kota Baubau,Sulawesi Tenggara,nama persis
+es-7d9d112187,Boalemo,GORONTALO,7501,Boalemo,Gorontalo,nama persis
+es-adfe3b4319,Gorontalo,GORONTALO,7502,Gorontalo,Gorontalo,nama persis
+es-45bf7835de,Pohuwato,GORONTALO,7503,Pohuwato,Gorontalo,nama persis
+es-0e723c201e,Bone Bolango,GORONTALO,7504,Bone Bolango,Gorontalo,nama persis
+es-4bac7348bb,Gorontalo Utara,GORONTALO,7505,Gorontalo Utara,Gorontalo,nama persis
+es-6f98713f91,Kota Gorontalo,GORONTALO,7571,Kota Gorontalo,Gorontalo,nama persis
+es-7a743ea317,Majene,SULAWESI BARAT,7601,Majene,Sulawesi Barat,nama persis
+es-7e03bbd2c5,Polewali Mandar,SULAWESI BARAT,7602,Polewali Mandar,Sulawesi Barat,nama persis
+es-a1927fe44f,Mamasa,SULAWESI BARAT,7603,Mamasa,Sulawesi Barat,nama persis
+es-e902d30b51,Mamuju,SULAWESI BARAT,7604,Mamuju,Sulawesi Barat,nama persis
+es-23a1cad415,Mamuju Utara,SULAWESI BARAT,7605,Mamuju Utara,Sulawesi Barat,nama persis
+es-a7c8a3dd58,Mamuju Tengah,SULAWESI BARAT,7606,Mamuju Tengah,Sulawesi Barat,nama persis
+es-6348600b19,Maluku Tenggara Barat,MALUKU,8101,Maluku Tenggara Barat,Maluku,nama persis
+es-551db3d4ec,Maluku Tenggara,MALUKU,8102,Maluku Tenggara,Maluku,nama persis
+es-07556dbb93,Maluku Tengah,MALUKU,8103,Maluku Tengah,Maluku,nama persis
+es-e234bece42,Buru,MALUKU,8104,Buru,Maluku,nama persis
+es-89b21c35d8,Kepulauan Aru,MALUKU,8105,Kepulauan Aru,Maluku,nama persis
+es-4dca947fe6,Seram Bagian Barat,MALUKU,8106,Seram Bagian Barat,Maluku,nama persis
+es-3af424ce39,Seram Bagian Timur,MALUKU,8107,Seram Bagian Timur,Maluku,nama persis
+es-bac271d954,Maluku Barat Daya,MALUKU,8108,Maluku Barat Daya,Maluku,nama persis
+es-2f7984b733,Buru Selatan,MALUKU,8109,Buru Selatan,Maluku,nama persis
+es-05dd76e174,Kota Ambon,MALUKU,8171,Kota Ambon,Maluku,nama persis
+es-bd66d25e02,Kota Tual,MALUKU,8172,Kota Tual,Maluku,nama persis
+es-de98f5f5f8,Halmahera Barat,MALUKU UTARA,8201,Halmahera Barat,Maluku Utara,nama persis
+es-0c0455c540,Halmahera Tengah,MALUKU UTARA,8202,Halmahera Tengah,Maluku Utara,nama persis
+es-0c64941287,Kepulauan Sula,MALUKU UTARA,8203,Kepulauan Sula,Maluku Utara,nama persis
+es-2ba4ef49aa,Halmahera Selatan,MALUKU UTARA,8204,Halmahera Selatan,Maluku Utara,nama persis
+es-f4f389ca07,Halmahera Utara,MALUKU UTARA,8205,Halmahera Utara,Maluku Utara,nama persis
+es-647fe07091,Halmahera Timur,MALUKU UTARA,8206,Halmahera Timur,Maluku Utara,nama persis
+es-d0f6e9080f,Pulau Morotai,MALUKU UTARA,8207,Pulau Morotai,Maluku Utara,nama persis
+es-d2df5984a0,Pulau Taliabu,MALUKU UTARA,8208,Pulau Taliabu,Maluku Utara,nama persis
+es-30d94bd497,Kota Ternate,MALUKU UTARA,8271,Kota Ternate,Maluku Utara,nama persis
+es-25884156bd,Kota Tidore Kepulauan,MALUKU UTARA,8272,Kota Tidore Kepulauan,Maluku Utara,nama persis
+es-f60abf544b,Fakfak,PAPUA BARAT,9101,Fakfak,Papua Barat,provinsi dipetakan
+es-7950547fd1,Kaimana,PAPUA BARAT,9102,Kaimana,Papua Barat,provinsi dipetakan
+es-925be3a651,Teluk Wondama,PAPUA BARAT,9103,Teluk Wondama,Papua Barat,provinsi dipetakan
+es-cadaaeacab,Teluk Bintuni,PAPUA BARAT,9104,Teluk Bintuni,Papua Barat,provinsi dipetakan
+es-45b3572c8b,Manokwari,PAPUA BARAT,9105,Manokwari,Papua Barat,provinsi dipetakan
+es-aa0f94d63f,Sorong Selatan,PAPUA BARAT DAYA,9106,Sorong Selatan,Papua Barat,provinsi dipetakan
+es-47602793b6,Sorong,PAPUA BARAT DAYA,9107,Sorong,Papua Barat,provinsi dipetakan
+es-a590cf7d94,Raja Ampat,PAPUA BARAT DAYA,9108,Raja Ampat,Papua Barat,provinsi dipetakan
+es-11212ea3dc,Tambrauw,PAPUA BARAT DAYA,9109,Tambrauw,Papua Barat,provinsi dipetakan
+es-4cb64ba728,Maybrat,PAPUA BARAT DAYA,9110,Maybrat,Papua Barat,provinsi dipetakan
+es-11e83fe016,Manokwari Selatan,PAPUA BARAT,9111,Manokwari Selatan,Papua Barat,provinsi dipetakan
+es-efdd91f3db,Pegunungan Arfak,PAPUA BARAT,9112,Pegunungan Arfak,Papua Barat,provinsi dipetakan
+es-3f7287dbb6,Kota Sorong,PAPUA BARAT DAYA,9171,Kota Sorong,Papua Barat,provinsi dipetakan
+es-cc3397a83d,Merauke,PAPUA SELATAN,9401,Merauke,Papua,provinsi dipetakan
+es-e6ec4c5fd2,Jayawijaya,PAPUA PEGUNUNGAN,9402,Jayawijaya,Papua,provinsi dipetakan
+es-b63000d7f4,Jayapura,PAPUA,9403,Jayapura,Papua,provinsi dipetakan
+es-36a15d6b97,Nabire,PAPUA TENGAH,9404,Nabire,Papua,provinsi dipetakan
+es-43e93199bb,Kepulauan Yapen,PAPUA,9408,Kepulauan Yapen,Papua,provinsi dipetakan
+es-580b80437f,Biak Numfor,PAPUA,9409,Biak Numfor,Papua,provinsi dipetakan
+es-75811ad511,Paniai,PAPUA TENGAH,9410,Paniai,Papua,provinsi dipetakan
+es-67b2326327,Puncak Jaya,PAPUA TENGAH,9411,Puncak Jaya,Papua,provinsi dipetakan
+es-9af03cb316,Mimika,PAPUA TENGAH,9412,Mimika,Papua,provinsi dipetakan
+es-5f735e5699,Boven Digoel,PAPUA SELATAN,9413,Boven Digoel,Papua,provinsi dipetakan
+es-c8db7552ef,Mappi,PAPUA SELATAN,9414,Mappi,Papua,provinsi dipetakan
+es-ffe7fe4e90,Asmat,PAPUA SELATAN,9415,Asmat,Papua,provinsi dipetakan
+es-636e1d3ae3,Yahukimo,PAPUA PEGUNUNGAN,9416,Yahukimo,Papua,provinsi dipetakan
+es-54b3eb9511,Pegunungan Bintang,PAPUA PEGUNUNGAN,9417,Pegunungan Bintang,Papua,provinsi dipetakan
+es-bdc5bdfc20,Tolikara,PAPUA PEGUNUNGAN,9418,Tolikara,Papua,provinsi dipetakan
+es-93baae4f07,Sarmi,PAPUA,9419,Sarmi,Papua,provinsi dipetakan
+es-726f20d3d9,Keerom,PAPUA,9420,Keerom,Papua,provinsi dipetakan
+es-06059fa83f,Waropen,PAPUA,9426,Waropen,Papua,provinsi dipetakan
+es-064ea591e3,Supiori,PAPUA,9427,Supiori,Papua,provinsi dipetakan
+es-f4a528cdca,Mamberamo Raya,PAPUA,9428,Mamberamo Raya,Papua,provinsi dipetakan
+es-b8ff9328e3,Nduga,PAPUA PEGUNUNGAN,9429,Nduga *,Papua,alias
+es-46d7327907,Lanny Jaya,PAPUA PEGUNUNGAN,9430,Lanny Jaya,Papua,provinsi dipetakan
+es-02218914fb,Mamberamo Tengah,PAPUA PEGUNUNGAN,9431,Mamberamo Tengah,Papua,provinsi dipetakan
+es-8138f79401,Yalimo,PAPUA PEGUNUNGAN,9432,Yalimo,Papua,provinsi dipetakan
+es-3ddf9542ab,Puncak,PAPUA TENGAH,9433,Puncak,Papua,provinsi dipetakan
+es-70e77c9f1f,Dogiyai,PAPUA TENGAH,9434,Dogiyai,Papua,provinsi dipetakan
+es-e5adec27de,Intan Jaya,PAPUA TENGAH,9435,Intan Jaya,Papua,provinsi dipetakan
+es-04ef9924a6,Deiyai,PAPUA TENGAH,9436,Deiyai,Papua,provinsi dipetakan
+es-fe16901911,Kota Jayapura,PAPUA,9471,Kota Jayapura,Papua,provinsi dipetakan

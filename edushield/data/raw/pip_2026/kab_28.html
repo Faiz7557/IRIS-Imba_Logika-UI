@@ -1,0 +1,874 @@
+<html lang="en">
+<head>
+<link rel="apple-touch-icon" sizes="57x57" href="/v1/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/v1/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/v1/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/v1/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/v1/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/v1/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/v1/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/v1/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/v1/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/v1/img/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/v1/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/v1/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/v1/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="/v1/img/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/v1/img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<title>Program Indonesia Pintar - Penyaluran</title>
+  <meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="//stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800" />
+<script type="application/javascript" src="//code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand text-white" href="/v1/">
+        
+            Beranda
+        </a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fa fa-bars text-white" ></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+			  	<h5>
+		        
+				</h5>
+                </li>
+                 <li class="nav-item col-1">&nbsp;
+                 </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="/v1/home">Beranda</a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTentang" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Data Penyaluran
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/v1/penyaluran/nasional">Pemberian Nasional</a></li>
+                        <li><a class="dropdown-item" href="/v1/penyaluran">Pemberian Per Wilayah</a></li>
+                        <li class="dropdown-item"><hr/></li>
+                        
+                        <li><a class="dropdown-item" href="/v1/nominasi/nasional">Nominasi Nasional</a></li>
+                        <li><a class="dropdown-item" href="/v1/nominasi">Nominasi Per Wilayah</a></li>
+                        
+                    </ul>
+                </li>
+
+                                <li class="nav-item active">
+                    <a class="nav-link" href="/v1/session" title="Login SIPINTAR Enterprise">Login</a>
+                </li>
+                                
+            </ul>
+        </div>
+    </div>
+</nav>	
+	<div class="main-body">
+		
+<div class="row">
+    <div class="home-content">
+        <div class="content-pip">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/v1/penyaluran">Penyaluran</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Propinsi</li>
+                </ol>
+            </nav>
+            <H4 class="alert alert-success">
+                <div class="col-md-8">
+                    Prov. Banten &nbsp;<a href="/v1/penyaluran/kabupaten/28?tahun=2026&download=1" class="btn btn-sm btn-primary">Download</a>
+                </div>
+                                <div class="col-md-8">
+                    <h6>
+                    Data Pencairan: 
+                    <span class="badge badge-danger">SD: 2026-09-30</span>
+                    <span class="badge badge-primary">SMP: 2026-09-30</span>
+                    <span class="badge badge-info">SMA: 2026-09-30</span>
+                    <span class="badge badge-secondary">SMK: 2026-09-30</span>
+                    </h6>
+                </div>
+                            </H4>
+            <div class="card" style="width: 100%">
+                <div class="card-header">
+                    <div class="form-group row">
+                        <label for="colFormLabelSm" class="col-sm-2 col-form-label col-form-label-sm">Tahun</label>
+                        <div class="col-sm-8">
+                            <select id="tahun" name="tahun" class="form-control input-sm required">
+	<option selected="selected" value="2026">2026</option>
+	<option value="2025">2025</option>
+	<option value="2024">2024</option>
+	<option value="2023">2023</option>
+	<option value="2022">2022</option>
+	<option value="2021">2021</option>
+	<option value="2020">2020</option>
+	<option value="2019">2019</option>
+	<option value="2018">2018</option>
+</select>                        </div>
+
+                    </div>
+                </div>
+                <div class="card-body">
+                                        <table class="table table-hover table-sipintar " style="width:100%" >
+                            <thead>
+                                <tr>
+                                    <th class="text-center" width="100">Jenjang</th>
+                                    <th class="text-center" width="100"></th>
+                                    <th class="text-center" width="200">Disalurkan</th>
+                                    <th class="text-center" width="200">Pemberian</th>
+                                    <th class="text-center" width="200">Pemberian Dari Aktivasi Nominasi</th>
+                                    <th class="text-center" width="200">Pemberian Relaksasi</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kab. Lebak <a href="/v1/penyaluran/kecamatan/2802?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">66.490</td>
+                                    <td class="text-right pr-5">56.981</td>
+                                    <td class="text-right pr-5">6.160</td>
+                                    <td class="text-right">3.349</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">27.844.650.000</td>
+                                    <td class="text-right pr-5">23.629.950.000</td>
+                                    <td class="text-right pr-5">2.707.650.000</td>
+                                    <td class="text-right">1.507.050.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">22.416</td>
+                                    <td class="text-right pr-5">19.079</td>
+                                    <td class="text-right pr-5">2.038</td>
+                                    <td class="text-right">1.299</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">14.439.375.000</td>
+                                    <td class="text-right pr-5">12.051.000.000</td>
+                                    <td class="text-right pr-5">1.414.125.000</td>
+                                    <td class="text-right">974.250.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">10.659</td>
+                                    <td class="text-right pr-5">5.388</td>
+                                    <td class="text-right pr-5">3.598</td>
+                                    <td class="text-right">1.673</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">16.929.900.000</td>
+                                    <td class="text-right pr-5">7.627.500.000</td>
+                                    <td class="text-right pr-5">6.291.000.000</td>
+                                    <td class="text-right">3.011.400.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">8.022</td>
+                                    <td class="text-right pr-5">4.039</td>
+                                    <td class="text-right pr-5">2.132</td>
+                                    <td class="text-right">1.851</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">12.597.300.000</td>
+                                    <td class="text-right pr-5">5.634.900.000</td>
+                                    <td class="text-right pr-5">3.630.600.000</td>
+                                    <td class="text-right">3.331.800.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">107.587</td>
+                                    <td class="text-right pr-5">85.487</td>
+                                    <td class="text-right pr-5">13.928</td>
+                                    <td class="text-right">8.172</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">71.811.225.000</td>
+                                    <td class="text-right pr-5">48.943.350.000</td>
+                                    <td class="text-right pr-5">14.043.375.000</td>
+                                    <td class="text-right">8.824.500.000</td>
+                                </tr>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kab. Pandeglang <a href="/v1/penyaluran/kecamatan/2801?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">79.040</td>
+                                    <td class="text-right pr-5">62.474</td>
+                                    <td class="text-right pr-5">10.638</td>
+                                    <td class="text-right">5.928</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">33.263.775.000</td>
+                                    <td class="text-right pr-5">25.994.475.000</td>
+                                    <td class="text-right pr-5">4.601.700.000</td>
+                                    <td class="text-right">2.667.600.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">22.337</td>
+                                    <td class="text-right pr-5">17.024</td>
+                                    <td class="text-right pr-5">3.563</td>
+                                    <td class="text-right">1.750</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">14.404.500.000</td>
+                                    <td class="text-right pr-5">10.762.875.000</td>
+                                    <td class="text-right pr-5">2.329.125.000</td>
+                                    <td class="text-right">1.312.500.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">9.713</td>
+                                    <td class="text-right pr-5">5.068</td>
+                                    <td class="text-right pr-5">3.955</td>
+                                    <td class="text-right">690</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">15.183.000.000</td>
+                                    <td class="text-right pr-5">7.206.300.000</td>
+                                    <td class="text-right pr-5">6.734.700.000</td>
+                                    <td class="text-right">1.242.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">11.860</td>
+                                    <td class="text-right pr-5">6.070</td>
+                                    <td class="text-right pr-5">4.270</td>
+                                    <td class="text-right">1.520</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">18.532.800.000</td>
+                                    <td class="text-right pr-5">8.951.400.000</td>
+                                    <td class="text-right pr-5">6.845.400.000</td>
+                                    <td class="text-right">2.736.000.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">122.950</td>
+                                    <td class="text-right pr-5">90.636</td>
+                                    <td class="text-right pr-5">22.426</td>
+                                    <td class="text-right">9.888</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">81.384.075.000</td>
+                                    <td class="text-right pr-5">52.915.050.000</td>
+                                    <td class="text-right pr-5">20.510.925.000</td>
+                                    <td class="text-right">7.958.100.000</td>
+                                </tr>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kab. Serang <a href="/v1/penyaluran/kecamatan/2804?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">54.422</td>
+                                    <td class="text-right pr-5">40.707</td>
+                                    <td class="text-right pr-5">10.132</td>
+                                    <td class="text-right">3.583</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">22.866.075.000</td>
+                                    <td class="text-right pr-5">16.817.625.000</td>
+                                    <td class="text-right pr-5">4.436.100.000</td>
+                                    <td class="text-right">1.612.350.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">15.519</td>
+                                    <td class="text-right pr-5">10.886</td>
+                                    <td class="text-right pr-5">3.824</td>
+                                    <td class="text-right">809</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">9.886.875.000</td>
+                                    <td class="text-right pr-5">6.744.000.000</td>
+                                    <td class="text-right pr-5">2.536.125.000</td>
+                                    <td class="text-right">606.750.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">8.977</td>
+                                    <td class="text-right pr-5">4.760</td>
+                                    <td class="text-right pr-5">2.912</td>
+                                    <td class="text-right">1.305</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">14.127.300.000</td>
+                                    <td class="text-right pr-5">6.755.400.000</td>
+                                    <td class="text-right pr-5">5.022.900.000</td>
+                                    <td class="text-right">2.349.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">8.252</td>
+                                    <td class="text-right pr-5">3.760</td>
+                                    <td class="text-right pr-5">2.021</td>
+                                    <td class="text-right">2.471</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">12.933.900.000</td>
+                                    <td class="text-right pr-5">5.248.800.000</td>
+                                    <td class="text-right pr-5">3.237.300.000</td>
+                                    <td class="text-right">4.447.800.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">87.170</td>
+                                    <td class="text-right pr-5">60.113</td>
+                                    <td class="text-right pr-5">18.889</td>
+                                    <td class="text-right">8.168</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">59.814.150.000</td>
+                                    <td class="text-right pr-5">35.565.825.000</td>
+                                    <td class="text-right pr-5">15.232.425.000</td>
+                                    <td class="text-right">9.015.900.000</td>
+                                </tr>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kab. Tangerang <a href="/v1/penyaluran/kecamatan/2803?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">87.510</td>
+                                    <td class="text-right pr-5">66.343</td>
+                                    <td class="text-right pr-5">19.189</td>
+                                    <td class="text-right">1.978</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">36.733.725.000</td>
+                                    <td class="text-right pr-5">27.520.425.000</td>
+                                    <td class="text-right pr-5">8.323.200.000</td>
+                                    <td class="text-right">890.100.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">29.311</td>
+                                    <td class="text-right pr-5">22.216</td>
+                                    <td class="text-right pr-5">5.130</td>
+                                    <td class="text-right">1.965</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">18.602.625.000</td>
+                                    <td class="text-right pr-5">13.758.375.000</td>
+                                    <td class="text-right pr-5">3.370.500.000</td>
+                                    <td class="text-right">1.473.750.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">15.605</td>
+                                    <td class="text-right pr-5">7.503</td>
+                                    <td class="text-right pr-5">5.851</td>
+                                    <td class="text-right">2.251</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">24.463.800.000</td>
+                                    <td class="text-right pr-5">10.339.200.000</td>
+                                    <td class="text-right pr-5">10.072.800.000</td>
+                                    <td class="text-right">4.051.800.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">18.126</td>
+                                    <td class="text-right pr-5">8.427</td>
+                                    <td class="text-right pr-5">5.449</td>
+                                    <td class="text-right">4.250</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">28.006.200.000</td>
+                                    <td class="text-right pr-5">11.626.200.000</td>
+                                    <td class="text-right pr-5">8.730.000.000</td>
+                                    <td class="text-right">7.650.000.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">150.552</td>
+                                    <td class="text-right pr-5">104.489</td>
+                                    <td class="text-right pr-5">35.619</td>
+                                    <td class="text-right">10.444</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">107.806.350.000</td>
+                                    <td class="text-right pr-5">63.244.200.000</td>
+                                    <td class="text-right pr-5">30.496.500.000</td>
+                                    <td class="text-right">14.065.650.000</td>
+                                </tr>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kota Cilegon <a href="/v1/penyaluran/kecamatan/2860?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">7.481</td>
+                                    <td class="text-right pr-5">5.690</td>
+                                    <td class="text-right pr-5">1.281</td>
+                                    <td class="text-right">510</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">3.127.725.000</td>
+                                    <td class="text-right pr-5">2.353.500.000</td>
+                                    <td class="text-right pr-5">544.725.000</td>
+                                    <td class="text-right">229.500.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">2.573</td>
+                                    <td class="text-right pr-5">2.086</td>
+                                    <td class="text-right pr-5">305</td>
+                                    <td class="text-right">182</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">1.637.625.000</td>
+                                    <td class="text-right pr-5">1.294.125.000</td>
+                                    <td class="text-right pr-5">207.000.000</td>
+                                    <td class="text-right">136.500.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">1.259</td>
+                                    <td class="text-right pr-5">632</td>
+                                    <td class="text-right pr-5">521</td>
+                                    <td class="text-right">106</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">1.949.400.000</td>
+                                    <td class="text-right pr-5">842.400.000</td>
+                                    <td class="text-right pr-5">916.200.000</td>
+                                    <td class="text-right">190.800.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">2.459</td>
+                                    <td class="text-right pr-5">1.277</td>
+                                    <td class="text-right pr-5">882</td>
+                                    <td class="text-right">300</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">3.828.600.000</td>
+                                    <td class="text-right pr-5">1.770.300.000</td>
+                                    <td class="text-right pr-5">1.518.300.000</td>
+                                    <td class="text-right">540.000.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">13.772</td>
+                                    <td class="text-right pr-5">9.685</td>
+                                    <td class="text-right pr-5">2.989</td>
+                                    <td class="text-right">1.098</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">10.543.350.000</td>
+                                    <td class="text-right pr-5">6.260.325.000</td>
+                                    <td class="text-right pr-5">3.186.225.000</td>
+                                    <td class="text-right">1.096.800.000</td>
+                                </tr>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kota Serang <a href="/v1/penyaluran/kecamatan/2862?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">27.050</td>
+                                    <td class="text-right pr-5">18.764</td>
+                                    <td class="text-right pr-5">5.918</td>
+                                    <td class="text-right">2.368</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">11.330.550.000</td>
+                                    <td class="text-right pr-5">7.676.775.000</td>
+                                    <td class="text-right pr-5">2.588.175.000</td>
+                                    <td class="text-right">1.065.600.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">7.426</td>
+                                    <td class="text-right pr-5">5.659</td>
+                                    <td class="text-right pr-5">1.551</td>
+                                    <td class="text-right">216</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">4.765.500.000</td>
+                                    <td class="text-right pr-5">3.602.625.000</td>
+                                    <td class="text-right pr-5">1.000.875.000</td>
+                                    <td class="text-right">162.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">2.391</td>
+                                    <td class="text-right pr-5">1.118</td>
+                                    <td class="text-right pr-5">674</td>
+                                    <td class="text-right">599</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">3.796.200.000</td>
+                                    <td class="text-right pr-5">1.579.500.000</td>
+                                    <td class="text-right pr-5">1.138.500.000</td>
+                                    <td class="text-right">1.078.200.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">4.892</td>
+                                    <td class="text-right pr-5">2.106</td>
+                                    <td class="text-right pr-5">1.889</td>
+                                    <td class="text-right">897</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">7.677.900.000</td>
+                                    <td class="text-right pr-5">2.891.700.000</td>
+                                    <td class="text-right pr-5">3.171.600.000</td>
+                                    <td class="text-right">1.614.600.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">41.759</td>
+                                    <td class="text-right pr-5">27.647</td>
+                                    <td class="text-right pr-5">10.032</td>
+                                    <td class="text-right">4.080</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">27.570.150.000</td>
+                                    <td class="text-right pr-5">15.750.600.000</td>
+                                    <td class="text-right pr-5">7.899.150.000</td>
+                                    <td class="text-right">3.920.400.000</td>
+                                </tr>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kota Tangerang <a href="/v1/penyaluran/kecamatan/2861?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">19.846</td>
+                                    <td class="text-right pr-5">14.528</td>
+                                    <td class="text-right pr-5">3.720</td>
+                                    <td class="text-right">1.598</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">8.158.050.000</td>
+                                    <td class="text-right pr-5">5.811.075.000</td>
+                                    <td class="text-right pr-5">1.627.875.000</td>
+                                    <td class="text-right">719.100.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">11.362</td>
+                                    <td class="text-right pr-5">9.032</td>
+                                    <td class="text-right pr-5">1.667</td>
+                                    <td class="text-right">663</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">7.202.625.000</td>
+                                    <td class="text-right pr-5">5.579.625.000</td>
+                                    <td class="text-right pr-5">1.125.750.000</td>
+                                    <td class="text-right">497.250.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">4.966</td>
+                                    <td class="text-right pr-5">2.507</td>
+                                    <td class="text-right pr-5">2.009</td>
+                                    <td class="text-right">450</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">7.876.800.000</td>
+                                    <td class="text-right pr-5">3.519.900.000</td>
+                                    <td class="text-right pr-5">3.546.900.000</td>
+                                    <td class="text-right">810.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">9.901</td>
+                                    <td class="text-right pr-5">5.088</td>
+                                    <td class="text-right pr-5">3.763</td>
+                                    <td class="text-right">1.050</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">15.249.600.000</td>
+                                    <td class="text-right pr-5">6.905.700.000</td>
+                                    <td class="text-right pr-5">6.453.900.000</td>
+                                    <td class="text-right">1.890.000.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">46.075</td>
+                                    <td class="text-right pr-5">31.155</td>
+                                    <td class="text-right pr-5">11.159</td>
+                                    <td class="text-right">3.761</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">38.487.075.000</td>
+                                    <td class="text-right pr-5">21.816.300.000</td>
+                                    <td class="text-right pr-5">12.754.425.000</td>
+                                    <td class="text-right">3.916.350.000</td>
+                                </tr>
+                                                                <tr class="bg-warning">
+                                    <td colspan="6">Kota Tangerang Selatan <a href="/v1/penyaluran/kecamatan/2863?tahun=2026" class="btn btn-info">Detail</a></td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">16.967</td>
+                                    <td class="text-right pr-5">11.742</td>
+                                    <td class="text-right pr-5">3.398</td>
+                                    <td class="text-right">1.827</td>
+                                </tr>
+                                <tr>
+                                    <td>SD</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">7.199.775.000</td>
+                                    <td class="text-right pr-5">4.892.850.000</td>
+                                    <td class="text-right pr-5">1.484.775.000</td>
+                                    <td class="text-right">822.150.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">6.507</td>
+                                    <td class="text-right pr-5">4.614</td>
+                                    <td class="text-right pr-5">1.160</td>
+                                    <td class="text-right">733</td>
+                                </tr>
+                                <tr>
+                                    <td>SMP</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">4.239.375.000</td>
+                                    <td class="text-right pr-5">2.923.125.000</td>
+                                    <td class="text-right pr-5">766.500.000</td>
+                                    <td class="text-right">549.750.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">3.336</td>
+                                    <td class="text-right pr-5">1.572</td>
+                                    <td class="text-right pr-5">1.409</td>
+                                    <td class="text-right">355</td>
+                                </tr>
+                                <tr>
+                                    <td>SMA</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">5.372.100.000</td>
+                                    <td class="text-right pr-5">2.244.600.000</td>
+                                    <td class="text-right pr-5">2.488.500.000</td>
+                                    <td class="text-right">639.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">5.761</td>
+                                    <td class="text-right pr-5">2.669</td>
+                                    <td class="text-right pr-5">2.097</td>
+                                    <td class="text-right">995</td>
+                                </tr>
+                                <tr>
+                                    <td>SMK</td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">8.967.600.000</td>
+                                    <td class="text-right pr-5">3.618.000.000</td>
+                                    <td class="text-right pr-5">3.558.600.000</td>
+                                    <td class="text-right">1.791.000.000</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td>Total</td>
+                                    <td>Siswa</td>
+                                    <td class="text-right pr-5">32.571</td>
+                                    <td class="text-right pr-5">20.597</td>
+                                    <td class="text-right pr-5">8.064</td>
+                                    <td class="text-right">3.910</td>
+                                </tr>
+                                <tr class="bg-primary text-white">
+                                    <td></td>
+                                    <td>Rp</td>
+                                    <td class="text-right pr-5">25.778.850.000</td>
+                                    <td class="text-right pr-5">13.678.575.000</td>
+                                    <td class="text-right pr-5">8.298.375.000</td>
+                                    <td class="text-right">3.801.900.000</td>
+                                </tr>
+                                                            </tbody>
+                        </table>                    
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="hidden" id="pro" name="pro" value="28" />
+	</div>
+	<div class="footer-distributed">
+    <div class="container-fluid">
+
+        <div class="footer-left">
+
+            <img src="/v1/img/home/logo-kemdikbud.png" alt="logo" height="100" class="pb-2"/>
+            <br/>
+            <span style="font-size: small;">PUSAT LAYANAN PEMBIAYAAN PENDIDIKAN</span>
+            <br/>
+            <span style="font-size: small;">KEMENTERIAN PENDIDIKAN DASAR DAN MENENGAH</span>
+
+            <p class="footer-company-name pt-3">Copyright © 2020-2022 PIP - Puslapdik</p>
+        </div>
+
+        <div class="footer-center">
+
+            <div>
+                <i class="fa fa-map-marker"></i>
+                <p><span>Gedung C Lantai 13, Jl. Jenderal Sudirman</span>Senayan, Jakarta Pusat 10270</p>
+            </div>
+
+
+            <div>
+                <i class="fa invisible"></i>
+                <p><span>Pengaduan terkait PIP melalui</span><span>Unit Layanan Terpadu (ULT) Kemdikbudristek</span> </p>
+            </div>
+            <div>
+                <i class="fa invisible"></i>
+                <p><span><i class="fas fa-chevron-circle-right fa-sm"></i>Telepon : Hotline 177;</span><span><i class="fas fa-chevron-circle-right"></i>surel : pengaduan@kemendikdasmen.go.id; dan</span> <span><i class="fas fa-chevron-circle-right"></i>laman : ult.kemendikdasmen.go.id.</span></p>
+            </div>
+        </div>
+        <div class="footer-right">
+
+            <h5 class="footer-company-about">
+                <span>Sosial Media</span>
+            </h5>
+
+            <div>
+                <a href="https://www.facebook.com/puslapdik/" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
+                <a href="https://twitter.com/puslapdik" target="_blank"><i class="fab fa-twitter-square fa-2x"></i></a>
+                <a href="https://www.youtube.com/channel/UCmi4X4Pg-bTkSvWAY9dHHaw" target="_blank"><i class="fab fa-youtube-square fa-2x"></i></a>
+                <a href="https://www.tiktok.com/@puslapdik_dikbud" target="_blank"><i class="fab fa-tiktok fa-2x"></i></a>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<link rel="stylesheet" type="text/css" href="/v1/plugins/fontawesome-free/css/all.min.css" />
+<link rel="stylesheet" type="text/css" href="/v1/css/home.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=1a4dfdaa-a2c0-4a4a-a67e-08bb7c9a74c0" />
+<link rel="stylesheet" type="text/css" href="/v1/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css?ver=1a4dfdaa-a2c0-4a4a-a67e-08bb7c9a74c0" />
+<link rel="stylesheet" type="text/css" href="/v1/plugins/datatables-responsive/css/responsive.bootstrap4.min.css?ver=1a4dfdaa-a2c0-4a4a-a67e-08bb7c9a74c0" />
+<script type="application/javascript" src="//cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script type="application/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script type="application/javascript" src="/v1/jsapps/base/files.js?ver=1a4dfdaa-a2c0-4a4a-a67e-08bb7c9a74c0"></script>
+<script type="application/javascript" src="/v1/js/penyaluran_kabupaten.js?ver=1a4dfdaa-a2c0-4a4a-a67e-08bb7c9a74c0"></script>
+<script type="application/javascript" src="/v1/js/sipintar.js"></script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-97389054-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-97389054-6');
+</script>
+ </body>

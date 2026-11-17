@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2025
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/05?tahun=2025&download=1
+# Diakses: 2026-11-16
+# Ukuran: 13566
+# SHA-256: e81a9b9dd52c354d9cb6d22d122becf106c435ab8e99be041277fb9af47bf9a9
+# Format: application/vnd.ms-excel (isi berkas: xlsx/OOXML, tanda ZIP PK; Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. Jawa Timur-202611161212:59.xlsx")
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

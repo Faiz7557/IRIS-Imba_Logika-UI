@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2025
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/24?tahun=2025
+# Diakses: 2026-11-16
+# Ukuran: 124833
+# SHA-256: 5be3631e0cb60e4850ec8b11c5c4f0a142483838dc3a06b880c756d0b0ea2f41
+# Format: text/html; charset=UTF-8 (HTML halaman SIPINTAR)
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

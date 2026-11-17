@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2026
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/19?tahun=2026
+# Diakses: 2026-11-16
+# Ukuran: 134998
+# SHA-256: cc4ce75b4e713dbc4f3545f2be4bb27086828aba795d667baa9ba25b4c93d83e
+# Format: text/html; charset=UTF-8 (HTML halaman SIPINTAR)
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

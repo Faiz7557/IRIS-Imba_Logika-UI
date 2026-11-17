@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2025
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/09?tahun=2025&download=1
+# Diakses: 2026-11-16
+# Ukuran: 7152
+# SHA-256: 16895a7c3598987dd87738333524a78433aa72b62d39ff859cfbcc5cb1f13f5e
+# Format: application/vnd.ms-excel (isi berkas: xlsx/OOXML, tanda ZIP PK; Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. Riau-202611161213:32.xlsx")
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login

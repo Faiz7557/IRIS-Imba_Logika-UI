@@ -1,0 +1,7 @@
+# Sumber: quarcs-lab/indonesia514 (GitHub), berkas maps/mapIndonesia514tp.geojson
+# URL: https://raw.githubusercontent.com/quarcs-lab/indonesia514/main/maps/mapIndonesia514tp.geojson
+# Diakses: 2026-11-16
+# Ukuran: 296843
+# SHA-256: b2bfc9aeaa3c381c17d68ae93a952896923cd0a623b6f46d0a40d985892b23ca
+# Format: text/plain; charset=utf-8 (GeoJSON FeatureCollection, 514 fitur, geometri Polygon, CRS OGC CRS84). Properti fitur pertama: districtID, district, COORD_X, COORD_Y, provinceID, province, islandID, Island. Jumlah provinceID unik = 34; nama province unik = 33.
+# Lisensi/catatan: MIT menurut README quarcs-lab/indonesia514; berkas LICENSE tidak ada di repo; sumber dan tahun batas tidak disebut; atribut provinsi masih 34 provinsi

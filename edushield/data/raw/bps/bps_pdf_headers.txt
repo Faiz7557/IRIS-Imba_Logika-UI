@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+date: Mon, 16 Nov 2026 12:16:04 GMT
+content-type: application/pdf
+content-disposition: attachment; filename="BPS0000-statistik_pendidikan_2025.pdf"
+content-transfer-encoding: binary
+cache-control: private, max-age=0, must-revalidate
+pragma: public
+set-cookie: 0d7cc6e54fd685842cf4b014152893dd=660e892086b14a7467d8eaaab401669c; path=/; HttpOnly
+Set-Cookie: bps-cookie=!Bho9yB0KjPH/Y6E6RyCkdsaJ8gCM6+bwED2UxivkdmIy4aG3gTP8EJWtAKb/BsW6vVmMODDJvxj1Ig==; path=/; Httponly; Secure
+Set-Cookie: TS01f947ca=01266d26d086808167faefb7f7461a1f4ff513ddd7e9e1c397ca97002392b3cc59ef9229fdeb88156ff36124b95e7f9245b6331ae7; Path=/; Domain=.webapi.bps.go.id
+Transfer-Encoding: chunked
+

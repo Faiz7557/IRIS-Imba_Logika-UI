@@ -1,0 +1,6 @@
+== 2025: 514 wilayah SIPINTAR, 514 wilayah aplikasi
+konsistensi provinsi 2025 (selisih = jumlah kab/kota - total provinsi):
+  pasangan (provinsi,jenjang) tak sama: 0 dari 152
+== 2026: 514 wilayah SIPINTAR, 514 wilayah aplikasi
+konsistensi provinsi 2026 (selisih = jumlah kab/kota - total provinsi):
+  pasangan (provinsi,jenjang) tak sama: 0 dari 152

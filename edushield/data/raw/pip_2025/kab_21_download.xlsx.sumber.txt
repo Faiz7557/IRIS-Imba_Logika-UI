@@ -1,0 +1,7 @@
+# Sumber: SIPINTAR (Kemendikdasmen), Data penyaluran PIP tahun 2025
+# URL: https://pip.kemendikdasmen.go.id/v1/penyaluran/kabupaten/21?tahun=2025&download=1
+# Diakses: 2026-11-16
+# Ukuran: 6833
+# SHA-256: e7bfe4c43cc9355f27791e4b957eadec97e3bc6318b6aff48fa9405a854a7d0a
+# Format: application/vnd.ms-excel (isi berkas: xlsx/OOXML, tanda ZIP PK; Content-Disposition: attachment; filename="Penyaluran PIP Tahun 2025 Provinsi Prov. Maluku-202611161214:56.xlsx")
+# Lisensi/catatan: Data penyaluran PIP (bukan kebutuhan); publik tanpa login
